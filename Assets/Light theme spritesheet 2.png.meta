@@ -1,0 +1,6555 @@
+fileFormatVersion: 2
+guid: 89a0d7c20bfddef448c19fd4c1b1175f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8296621223176931708
+    second: Light theme spritesheet 2_0
+  - first:
+      213: -7338495936813020903
+    second: Light theme spritesheet 2_1
+  - first:
+      213: -1425956613385307861
+    second: Light theme spritesheet 2_2
+  - first:
+      213: 6164569621433158419
+    second: Light theme spritesheet 2_3
+  - first:
+      213: -922014969710396463
+    second: Light theme spritesheet 2_4
+  - first:
+      213: -821009390305383671
+    second: Light theme spritesheet 2_5
+  - first:
+      213: -9075596160422218011
+    second: Light theme spritesheet 2_6
+  - first:
+      213: -6498931544257290041
+    second: Light theme spritesheet 2_7
+  - first:
+      213: -317760707293212241
+    second: Light theme spritesheet 2_8
+  - first:
+      213: -3327222584537047813
+    second: Light theme spritesheet 2_9
+  - first:
+      213: -8759689876945805774
+    second: Light theme spritesheet 2_10
+  - first:
+      213: -8675234053803004266
+    second: Light theme spritesheet 2_11
+  - first:
+      213: 4964305889303751125
+    second: Light theme spritesheet 2_12
+  - first:
+      213: -5010254554412662336
+    second: Light theme spritesheet 2_13
+  - first:
+      213: 2278163460956952416
+    second: Light theme spritesheet 2_14
+  - first:
+      213: -910359320963178844
+    second: Light theme spritesheet 2_15
+  - first:
+      213: 7348153716293196722
+    second: Light theme spritesheet 2_16
+  - first:
+      213: -6134969044807833251
+    second: Light theme spritesheet 2_17
+  - first:
+      213: 4946440755927082456
+    second: Light theme spritesheet 2_18
+  - first:
+      213: 1129472155353800284
+    second: Light theme spritesheet 2_19
+  - first:
+      213: -3241664479589848468
+    second: Light theme spritesheet 2_20
+  - first:
+      213: 5870805161364464687
+    second: Light theme spritesheet 2_21
+  - first:
+      213: -6252068662125968238
+    second: Light theme spritesheet 2_22
+  - first:
+      213: 980506481798527841
+    second: Light theme spritesheet 2_23
+  - first:
+      213: -802247792286155700
+    second: Light theme spritesheet 2_24
+  - first:
+      213: 5319881097717340207
+    second: Light theme spritesheet 2_25
+  - first:
+      213: 2649593905612509009
+    second: Light theme spritesheet 2_26
+  - first:
+      213: -7643418765540818492
+    second: Light theme spritesheet 2_27
+  - first:
+      213: 4764706409154260426
+    second: Light theme spritesheet 2_28
+  - first:
+      213: 1160182517256531574
+    second: Light theme spritesheet 2_29
+  - first:
+      213: -6495813620927141566
+    second: Light theme spritesheet 2_30
+  - first:
+      213: 3300625740470599410
+    second: Light theme spritesheet 2_31
+  - first:
+      213: -9084552992060827831
+    second: Light theme spritesheet 2_32
+  - first:
+      213: 7186728634115545148
+    second: Light theme spritesheet 2_33
+  - first:
+      213: 7797071272814763813
+    second: Light theme spritesheet 2_34
+  - first:
+      213: 7556511695102654097
+    second: Light theme spritesheet 2_35
+  - first:
+      213: -2223624305751995414
+    second: Light theme spritesheet 2_36
+  - first:
+      213: 1099067125647888875
+    second: Light theme spritesheet 2_37
+  - first:
+      213: -4955722811257863833
+    second: Light theme spritesheet 2_38
+  - first:
+      213: -3741533279500827368
+    second: Light theme spritesheet 2_39
+  - first:
+      213: 8922503497161428855
+    second: Light theme spritesheet 2_40
+  - first:
+      213: 4657318279382757415
+    second: Light theme spritesheet 2_41
+  - first:
+      213: -5648731963686140998
+    second: Light theme spritesheet 2_42
+  - first:
+      213: 5953696885638116353
+    second: Light theme spritesheet 2_43
+  - first:
+      213: -5648250040014605438
+    second: Light theme spritesheet 2_44
+  - first:
+      213: -316557844804989581
+    second: Light theme spritesheet 2_45
+  - first:
+      213: -941253539974876639
+    second: Light theme spritesheet 2_46
+  - first:
+      213: -7582872750154988694
+    second: Light theme spritesheet 2_0
+  - first:
+      213: 8474620970154987622
+    second: Light theme spritesheet 2_1
+  - first:
+      213: -9071740015320346147
+    second: Light theme spritesheet 2_2
+  - first:
+      213: 3564148979003134672
+    second: Light theme spritesheet 2_3
+  - first:
+      213: 883800062569726077
+    second: Light theme spritesheet 2_4
+  - first:
+      213: -811743612862499984
+    second: Light theme spritesheet 2_5
+  - first:
+      213: -1653029412955663954
+    second: Light theme spritesheet 2_6
+  - first:
+      213: -5897732414425014445
+    second: Light theme spritesheet 2_7
+  - first:
+      213: 6273858450992880438
+    second: Light theme spritesheet 2_8
+  - first:
+      213: -5731665226487694213
+    second: Light theme spritesheet 2_9
+  - first:
+      213: -4066242417043751031
+    second: Light theme spritesheet 2_10
+  - first:
+      213: -9207954104833016247
+    second: Light theme spritesheet 2_11
+  - first:
+      213: 6509606595978277771
+    second: Light theme spritesheet 2_12
+  - first:
+      213: 5160314298174403990
+    second: Light theme spritesheet 2_13
+  - first:
+      213: 3925400291758165245
+    second: Light theme spritesheet 2_14
+  - first:
+      213: -1207183348890139678
+    second: Light theme spritesheet 2_15
+  - first:
+      213: -3247244071578043862
+    second: Light theme spritesheet 2_16
+  - first:
+      213: 2730520804620932538
+    second: Light theme spritesheet 2_17
+  - first:
+      213: 7152687022107738656
+    second: Light theme spritesheet 2_18
+  - first:
+      213: -4666187761180854515
+    second: Light theme spritesheet 2_19
+  - first:
+      213: -3452095540361442145
+    second: Light theme spritesheet 2_20
+  - first:
+      213: 5638801696490362511
+    second: Light theme spritesheet 2_21
+  - first:
+      213: 8137201144810946657
+    second: Light theme spritesheet 2_22
+  - first:
+      213: 4153509937760096444
+    second: Light theme spritesheet 2_23
+  - first:
+      213: -4525522076765865525
+    second: Light theme spritesheet 2_24
+  - first:
+      213: -4330444720893989773
+    second: Light theme spritesheet 2_25
+  - first:
+      213: 3116311909421829737
+    second: Light theme spritesheet 2_26
+  - first:
+      213: 6306837515650046753
+    second: Light theme spritesheet 2_27
+  - first:
+      213: -3386127548985234134
+    second: Light theme spritesheet 2_28
+  - first:
+      213: -7160744068200552144
+    second: Light theme spritesheet 2_29
+  - first:
+      213: 5918401200301690859
+    second: Light theme spritesheet 2_30
+  - first:
+      213: -4832855265688723696
+    second: Light theme spritesheet 2_31
+  - first:
+      213: -6965618721077966196
+    second: Light theme spritesheet 2_32
+  - first:
+      213: 888604950227819276
+    second: Light theme spritesheet 2_33
+  - first:
+      213: -4227416514865325271
+    second: Light theme spritesheet 2_34
+  - first:
+      213: -8493188725090613490
+    second: Light theme spritesheet 2_35
+  - first:
+      213: -7140173643935951398
+    second: Light theme spritesheet 2_36
+  - first:
+      213: 5993542806294624991
+    second: Light theme spritesheet 2_37
+  - first:
+      213: 4551288345558710981
+    second: Light theme spritesheet 2_38
+  - first:
+      213: -4736372408617472311
+    second: Light theme spritesheet 2_39
+  - first:
+      213: 1831931496462222218
+    second: Light theme spritesheet 2_40
+  - first:
+      213: -5855503304732970442
+    second: Light theme spritesheet 2_41
+  - first:
+      213: 7797625969296229911
+    second: Light theme spritesheet 2_42
+  - first:
+      213: 8174227200677421933
+    second: Light theme spritesheet 2_43
+  - first:
+      213: -7538381672804146158
+    second: Light theme spritesheet 2_44
+  - first:
+      213: 2598371197425696362
+    second: Light theme spritesheet 2_45
+  - first:
+      213: -5943962210590148450
+    second: Light theme spritesheet 2_46
+  - first:
+      213: -1768575790228157257
+    second: Light theme spritesheet 2_47
+  - first:
+      213: 3181317899293806930
+    second: Light theme spritesheet 2_48
+  - first:
+      213: -1337224336873917006
+    second: Light theme spritesheet 2_49
+  - first:
+      213: -2278883883364702187
+    second: Light theme spritesheet 2_50
+  - first:
+      213: -4443086204440260512
+    second: Light theme spritesheet 2_51
+  - first:
+      213: -8419063270932214069
+    second: Light theme spritesheet 2_52
+  - first:
+      213: 6283271167697460084
+    second: Light theme spritesheet 2_53
+  - first:
+      213: -843903367300079528
+    second: Light theme spritesheet 2_54
+  - first:
+      213: -6399060733165662820
+    second: Light theme spritesheet 2_55
+  - first:
+      213: -5188462871089151624
+    second: Light theme spritesheet 2_56
+  - first:
+      213: 2257800642821796657
+    second: Light theme spritesheet 2_57
+  - first:
+      213: -2270684211400488524
+    second: Light theme spritesheet 2_58
+  - first:
+      213: -2844724787038190750
+    second: Light theme spritesheet 2_59
+  - first:
+      213: 9203472157512218551
+    second: Light theme spritesheet 2_60
+  - first:
+      213: -1859284113608174974
+    second: Light theme spritesheet 2_61
+  - first:
+      213: -2849371273735834173
+    second: Light theme spritesheet 2_62
+  - first:
+      213: 6065651843998216135
+    second: Light theme spritesheet 2_63
+  - first:
+      213: -329574771984785862
+    second: Light theme spritesheet 2_64
+  - first:
+      213: 1138928964280640769
+    second: Light theme spritesheet 2_65
+  - first:
+      213: 7210022494706670520
+    second: Light theme spritesheet 2_66
+  - first:
+      213: 6281480433555035847
+    second: Light theme spritesheet 2_67
+  - first:
+      213: -4326689964364770709
+    second: Light theme spritesheet 2_68
+  - first:
+      213: -7506468632697364987
+    second: Light theme spritesheet 2_69
+  - first:
+      213: 2035325625060188986
+    second: Light theme spritesheet 2_70
+  - first:
+      213: 2194256212333961233
+    second: Light theme spritesheet 2_71
+  - first:
+      213: 5427487984678991549
+    second: Light theme spritesheet 2_72
+  - first:
+      213: -7560658400902370989
+    second: Light theme spritesheet 2_73
+  - first:
+      213: -5206324893410835811
+    second: Light theme spritesheet 2_74
+  - first:
+      213: -7739944955400314777
+    second: Light theme spritesheet 2_75
+  - first:
+      213: 8969678283937111893
+    second: Light theme spritesheet 2_76
+  - first:
+      213: -8227820258184666410
+    second: Light theme spritesheet 2_77
+  - first:
+      213: 8873832327396792853
+    second: Light theme spritesheet 2_78
+  - first:
+      213: -7023454322394513968
+    second: Light theme spritesheet 2_79
+  - first:
+      213: -3685047336299235376
+    second: Light theme spritesheet 2_80
+  - first:
+      213: 4962238281514178769
+    second: Light theme spritesheet 2_81
+  - first:
+      213: 9164969108226864833
+    second: Light theme spritesheet 2_82
+  - first:
+      213: 8528047543095199684
+    second: Light theme spritesheet 2_83
+  - first:
+      213: 2053079477194360595
+    second: Light theme spritesheet 2_84
+  - first:
+      213: 7424883613279682405
+    second: Light theme spritesheet 2_85
+  - first:
+      213: 6938034211290830266
+    second: Light theme spritesheet 2_86
+  - first:
+      213: 129430962200104205
+    second: Light theme spritesheet 2_87
+  - first:
+      213: 3179087972882305458
+    second: Light theme spritesheet 2_88
+  - first:
+      213: 1552857256512349823
+    second: Light theme spritesheet 2_89
+  - first:
+      213: -8993508603523148372
+    second: Light theme spritesheet 2_90
+  - first:
+      213: -6194653425928628470
+    second: Light theme spritesheet 2_91
+  - first:
+      213: -8401150643944990339
+    second: Light theme spritesheet 2_92
+  - first:
+      213: -3256482356911862281
+    second: Light theme spritesheet 2_93
+  - first:
+      213: -1527201510722966325
+    second: Light theme spritesheet 2_94
+  - first:
+      213: -6226924968147686581
+    second: Light theme spritesheet 2_95
+  - first:
+      213: -1553090177886191615
+    second: Light theme spritesheet 2_96
+  - first:
+      213: 3738553636967311773
+    second: Light theme spritesheet 2_97
+  - first:
+      213: 1232220897638233857
+    second: Light theme spritesheet 2_98
+  - first:
+      213: 5691550322069885046
+    second: Light theme spritesheet 2_99
+  - first:
+      213: -7859821914184629065
+    second: Light theme spritesheet 2_100
+  - first:
+      213: 6863788896178374035
+    second: Light theme spritesheet 2_101
+  - first:
+      213: 6779876653774006310
+    second: Light theme spritesheet 2_102
+  - first:
+      213: 1626435622912848366
+    second: Light theme spritesheet 2_103
+  - first:
+      213: -4049881982326532433
+    second: Light theme spritesheet 2_104
+  - first:
+      213: 227338615535700361
+    second: Light theme spritesheet 2_105
+  - first:
+      213: 784474063128590399
+    second: Light theme spritesheet 2_106
+  - first:
+      213: 8244108951389962837
+    second: Light theme spritesheet 2_107
+  - first:
+      213: -3655761493391776650
+    second: Light theme spritesheet 2_108
+  - first:
+      213: -7202378883422706844
+    second: Light theme spritesheet 2_109
+  - first:
+      213: 3856734787728752224
+    second: Light theme spritesheet 2_110
+  - first:
+      213: -5367403054541720436
+    second: Light theme spritesheet 2_111
+  - first:
+      213: -7825611666048875554
+    second: Light theme spritesheet 2_112
+  - first:
+      213: -1789661157940847616
+    second: Light theme spritesheet 2_113
+  - first:
+      213: 9014541725413699444
+    second: Light theme spritesheet 2_114
+  - first:
+      213: -5822704614042835716
+    second: Light theme spritesheet 2_115
+  - first:
+      213: 6911282653715513465
+    second: Light theme spritesheet 2_116
+  - first:
+      213: 1768865932943692408
+    second: Light theme spritesheet 2_117
+  - first:
+      213: 2634091081534493171
+    second: Light theme spritesheet 2_118
+  - first:
+      213: 3918166781592150344
+    second: Light theme spritesheet 2_119
+  - first:
+      213: -6515667054201213606
+    second: Light theme spritesheet 2_120
+  - first:
+      213: 3940294647465402210
+    second: Light theme spritesheet 2_121
+  - first:
+      213: 7002212751758225603
+    second: Light theme spritesheet 2_122
+  - first:
+      213: -6831988061339198619
+    second: Light theme spritesheet 2_123
+  - first:
+      213: -1975616740052602796
+    second: Light theme spritesheet 2_124
+  - first:
+      213: -4302366301637787199
+    second: Light theme spritesheet 2_125
+  - first:
+      213: 5582187722624125533
+    second: Light theme spritesheet 2_126
+  - first:
+      213: 9079598503501376233
+    second: Light theme spritesheet 2_127
+  - first:
+      213: -6552386668561253437
+    second: Light theme spritesheet 2_128
+  - first:
+      213: 6111863702617164637
+    second: Light theme spritesheet 2_129
+  - first:
+      213: -837755945009813016
+    second: Light theme spritesheet 2_130
+  - first:
+      213: 8627511714924597099
+    second: Light theme spritesheet 2_131
+  - first:
+      213: -1470194440177435705
+    second: Light theme spritesheet 2_132
+  - first:
+      213: -2196215639064960915
+    second: Light theme spritesheet 2_133
+  - first:
+      213: 6904126063144596276
+    second: Light theme spritesheet 2_134
+  - first:
+      213: -5916608875424063702
+    second: Light theme spritesheet 2_135
+  - first:
+      213: -3767503357083974270
+    second: Light theme spritesheet 2_136
+  - first:
+      213: 4369037758699987504
+    second: Light theme spritesheet 2_137
+  - first:
+      213: 3421616521271104322
+    second: Light theme spritesheet 2_138
+  - first:
+      213: 4880909595142376595
+    second: Light theme spritesheet 2_139
+  - first:
+      213: -4953841288481534640
+    second: Light theme spritesheet 2_140
+  - first:
+      213: 470175081204389262
+    second: Light theme spritesheet 2_141
+  - first:
+      213: 4690183300912075851
+    second: Light theme spritesheet 2_142
+  - first:
+      213: -3282691018919998675
+    second: Light theme spritesheet 2_143
+  - first:
+      213: -8201716695004323541
+    second: Light theme spritesheet 2_144
+  - first:
+      213: -5348351769915390979
+    second: Light theme spritesheet 2_145
+  - first:
+      213: 3758010493795880952
+    second: Light theme spritesheet 2_146
+  - first:
+      213: -7961275112197200061
+    second: Light theme spritesheet 2_147
+  - first:
+      213: 7869786504805505822
+    second: Light theme spritesheet 2_148
+  - first:
+      213: -97520857350344098
+    second: Light theme spritesheet 2_149
+  - first:
+      213: -1284960061523470422
+    second: Light theme spritesheet 2_150
+  - first:
+      213: 6543872522608942486
+    second: Light theme spritesheet 2_151
+  - first:
+      213: -116293534463367311
+    second: Light theme spritesheet 2_152
+  - first:
+      213: -7161306484709004163
+    second: Light theme spritesheet 2_153
+  - first:
+      213: 2417029620044282848
+    second: Light theme spritesheet 2_154
+  - first:
+      213: -9171230242910960943
+    second: Light theme spritesheet 2_155
+  - first:
+      213: 8606682799303448612
+    second: Light theme spritesheet 2_156
+  - first:
+      213: 2452211007248968952
+    second: Light theme spritesheet 2_157
+  - first:
+      213: -8703949049951483138
+    second: Light theme spritesheet 2_158
+  - first:
+      213: -5942266359247734115
+    second: Light theme spritesheet 2_159
+  - first:
+      213: 7526788179195783515
+    second: Light theme spritesheet 2_160
+  - first:
+      213: 6444027976717085579
+    second: Light theme spritesheet 2_161
+  - first:
+      213: -8448549277269529386
+    second: Light theme spritesheet 2_162
+  - first:
+      213: -580051202926907295
+    second: Light theme spritesheet 2_163
+  - first:
+      213: -5979714791683048041
+    second: Light theme spritesheet 2_164
+  - first:
+      213: 330469812204464131
+    second: Light theme spritesheet 2_165
+  - first:
+      213: -6594483043841032302
+    second: Light theme spritesheet 2_166
+  - first:
+      213: -2424793800411135059
+    second: Light theme spritesheet 2_167
+  - first:
+      213: -4501426963383121752
+    second: Light theme spritesheet 2_168
+  - first:
+      213: 3228846480791179605
+    second: Light theme spritesheet 2_169
+  - first:
+      213: -69071358411475875
+    second: Light theme spritesheet 2_170
+  - first:
+      213: 5542232882048049655
+    second: Light theme spritesheet 2_171
+  - first:
+      213: 3830497956917674011
+    second: Light theme spritesheet 2_172
+  - first:
+      213: 6972671867608402364
+    second: Light theme spritesheet 2_173
+  - first:
+      213: -5585067378080470532
+    second: Light theme spritesheet 2_174
+  - first:
+      213: -3361117682124908258
+    second: Light theme spritesheet 2_175
+  - first:
+      213: -5397731746918555000
+    second: Light theme spritesheet 2_176
+  - first:
+      213: 2752666770149757276
+    second: Light theme spritesheet 2_177
+  - first:
+      213: -2317620658107798281
+    second: Light theme spritesheet 2_178
+  - first:
+      213: 8501625288503533696
+    second: Light theme spritesheet 2_179
+  - first:
+      213: 2842063368566500355
+    second: Light theme spritesheet 2_180
+  - first:
+      213: -2490478109343505148
+    second: Light theme spritesheet 2_181
+  - first:
+      213: 2939464898793516003
+    second: Light theme spritesheet 2_182
+  - first:
+      213: 1012643483109031699
+    second: Light theme spritesheet 2_183
+  - first:
+      213: -368888703097884085
+    second: Light theme spritesheet 2_184
+  - first:
+      213: 9025496837202157899
+    second: Light theme spritesheet 2_185
+  - first:
+      213: 4606630922688977405
+    second: Light theme spritesheet 2_186
+  - first:
+      213: -1208926401260845537
+    second: Light theme spritesheet 2_187
+  - first:
+      213: -2733783129315776221
+    second: Light theme spritesheet 2_188
+  - first:
+      213: 5868142914737831379
+    second: Light theme spritesheet 2_189
+  - first:
+      213: 4774609555563491329
+    second: Light theme spritesheet 2_190
+  - first:
+      213: -3828568714052198463
+    second: Light theme spritesheet 2_191
+  - first:
+      213: 5190844232009734790
+    second: Light theme spritesheet 2_192
+  - first:
+      213: -3278914696442289049
+    second: Light theme spritesheet 2_193
+  - first:
+      213: -840138197837626414
+    second: Light theme spritesheet 2_194
+  - first:
+      213: 1736052283615896747
+    second: Light theme spritesheet 2_195
+  - first:
+      213: -5187432345302000803
+    second: Light theme spritesheet 2_196
+  - first:
+      213: -6378707348245869072
+    second: Light theme spritesheet 2_197
+  - first:
+      213: -4541109224358248492
+    second: Light theme spritesheet 2_198
+  - first:
+      213: 7268798755160058234
+    second: Light theme spritesheet 2_199
+  - first:
+      213: 8157146997381061929
+    second: Light theme spritesheet 2_200
+  - first:
+      213: 9142159593965945158
+    second: Light theme spritesheet 2_201
+  - first:
+      213: 6664274716577467870
+    second: Light theme spritesheet 2_202
+  - first:
+      213: 6639737610632235080
+    second: Light theme spritesheet 2_203
+  - first:
+      213: 3303232807820261859
+    second: Light theme spritesheet 2_204
+  - first:
+      213: 6027585422436771048
+    second: Light theme spritesheet 2_205
+  - first:
+      213: 2197785740352527176
+    second: Light theme spritesheet 2_206
+  - first:
+      213: -470384867589970469
+    second: Light theme spritesheet 2_207
+  - first:
+      213: 4593616372438150105
+    second: Light theme spritesheet 2_208
+  - first:
+      213: -6078824739840475410
+    second: Light theme spritesheet 2_209
+  - first:
+      213: 8019579326707164605
+    second: Light theme spritesheet 2_210
+  - first:
+      213: -588432443541185316
+    second: Light theme spritesheet 2_211
+  - first:
+      213: -7188656666294258931
+    second: Light theme spritesheet 2_212
+  - first:
+      213: -8128172112445923169
+    second: Light theme spritesheet 2_213
+  - first:
+      213: -7998873805758630806
+    second: Light theme spritesheet 2_214
+  - first:
+      213: -5227116546941288959
+    second: Light theme spritesheet 2_215
+  - first:
+      213: 8440001999941704277
+    second: Light theme spritesheet 2_216
+  - first:
+      213: 8099539116696034804
+    second: Light theme spritesheet 2_217
+  - first:
+      213: 3445405017390210907
+    second: Light theme spritesheet 2_218
+  - first:
+      213: -945802938999362568
+    second: Light theme spritesheet 2_219
+  - first:
+      213: -3048979557012072827
+    second: Light theme spritesheet 2_220
+  - first:
+      213: 2983352660829804126
+    second: Light theme spritesheet 2_221
+  - first:
+      213: 2221557982993805914
+    second: Light theme spritesheet 2_222
+  - first:
+      213: -7890382578246910566
+    second: Light theme spritesheet 2_223
+  - first:
+      213: -509634481442725581
+    second: Light theme spritesheet 2_224
+  - first:
+      213: 6876966532650846943
+    second: Light theme spritesheet 2_225
+  - first:
+      213: -4950547304558662490
+    second: Light theme spritesheet 2_226
+  - first:
+      213: 1215468326005070477
+    second: Light theme spritesheet 2_227
+  - first:
+      213: -3620933073608577649
+    second: Light theme spritesheet 2_228
+  - first:
+      213: 7658097769124211610
+    second: Light theme spritesheet 2_229
+  - first:
+      213: -3576906006955298659
+    second: Light theme spritesheet 2_230
+  - first:
+      213: 3573551467162206260
+    second: Light theme spritesheet 2_231
+  - first:
+      213: -4509249911202979260
+    second: Light theme spritesheet 2_232
+  - first:
+      213: -2210001369155455941
+    second: Light theme spritesheet 2_233
+  - first:
+      213: 9056177454557293539
+    second: Light theme spritesheet 2_234
+  - first:
+      213: -5890268073155455723
+    second: Light theme spritesheet 2_235
+  - first:
+      213: 9092595229255922715
+    second: Light theme spritesheet 2_236
+  - first:
+      213: 1094441548426456697
+    second: Light theme spritesheet 2_237
+  - first:
+      213: 7887426345674644880
+    second: Light theme spritesheet 2_238
+  - first:
+      213: 2136048109757202139
+    second: Light theme spritesheet 2_239
+  - first:
+      213: -7076059377263611482
+    second: Light theme spritesheet 2_240
+  - first:
+      213: -43875938973856713
+    second: Light theme spritesheet 2_241
+  - first:
+      213: -5241184217528974858
+    second: Light theme spritesheet 2_242
+  - first:
+      213: -4384647499473594139
+    second: Light theme spritesheet 2_243
+  - first:
+      213: -3792289413147026739
+    second: Light theme spritesheet 2_244
+  - first:
+      213: 8836214943438431324
+    second: Light theme spritesheet 2_245
+  - first:
+      213: 2131830035916178042
+    second: Light theme spritesheet 2_246
+  - first:
+      213: 8931741602512680570
+    second: Light theme spritesheet 2_247
+  - first:
+      213: 1081705002023297647
+    second: Light theme spritesheet 2_248
+  - first:
+      213: 5368483689461640852
+    second: Light theme spritesheet 2_249
+  - first:
+      213: -7218566545660184996
+    second: Light theme spritesheet 2_250
+  - first:
+      213: -1689289164384023009
+    second: Light theme spritesheet 2_251
+  - first:
+      213: -4884400610059890466
+    second: Light theme spritesheet 2_252
+  - first:
+      213: -1458960521339837023
+    second: Light theme spritesheet 2_253
+  - first:
+      213: -5939624697408933126
+    second: Light theme spritesheet 2_254
+  - first:
+      213: -2233022908804447234
+    second: Light theme spritesheet 2_255
+  - first:
+      213: -3377096743646458747
+    second: Light theme spritesheet 2_256
+  - first:
+      213: -1308704896533754018
+    second: Light theme spritesheet 2_257
+  - first:
+      213: -4089037914716145300
+    second: Light theme spritesheet 2_258
+  - first:
+      213: 1478521203882531913
+    second: Light theme spritesheet 2_259
+  - first:
+      213: 7993607655422906014
+    second: Light theme spritesheet 2_260
+  - first:
+      213: 7901743266173032220
+    second: Light theme spritesheet 2_261
+  - first:
+      213: -2499515864996222581
+    second: Light theme spritesheet 2_262
+  - first:
+      213: -45410274069040951
+    second: Light theme spritesheet 2_263
+  - first:
+      213: -5456160143634358500
+    second: Light theme spritesheet 2_264
+  - first:
+      213: -3838682182627832736
+    second: Light theme spritesheet 2_265
+  - first:
+      213: 1374853719361121359
+    second: Light theme spritesheet 2_266
+  - first:
+      213: -2187225488649956349
+    second: Light theme spritesheet 2_267
+  - first:
+      213: 6391281160115290755
+    second: Light theme spritesheet 2_268
+  - first:
+      213: -3681092031294286638
+    second: Light theme spritesheet 2_269
+  - first:
+      213: -8571414317338988195
+    second: Light theme spritesheet 2_270
+  - first:
+      213: 1541072539807020754
+    second: Light theme spritesheet 2_271
+  - first:
+      213: -1172705962972175904
+    second: Light theme spritesheet 2_272
+  - first:
+      213: 2885105498197115267
+    second: Light theme spritesheet 2_273
+  - first:
+      213: 1708769604212105984
+    second: Light theme spritesheet 2_274
+  - first:
+      213: -1097176090328719157
+    second: Light theme spritesheet 2_275
+  - first:
+      213: 1277460747887855166
+    second: Light theme spritesheet 2_276
+  - first:
+      213: -7963154299024226656
+    second: Light theme spritesheet 2_277
+  - first:
+      213: -6244121240934629141
+    second: Light theme spritesheet 2_278
+  - first:
+      213: 2670172451617287066
+    second: Light theme spritesheet 2_279
+  - first:
+      213: 4167181589745735054
+    second: Light theme spritesheet 2_280
+  - first:
+      213: -3742371303166276509
+    second: Light theme spritesheet 2_281
+  - first:
+      213: 2377729941445679583
+    second: Light theme spritesheet 2_282
+  - first:
+      213: 3433660747519038972
+    second: Light theme spritesheet 2_283
+  - first:
+      213: -4884018855824084449
+    second: Light theme spritesheet 2_284
+  - first:
+      213: -3724412470343122425
+    second: Light theme spritesheet 2_285
+  - first:
+      213: -986273688435482641
+    second: Light theme spritesheet 2_286
+  - first:
+      213: 6704799223410228162
+    second: Light theme spritesheet 2_287
+  - first:
+      213: -1069617985908519567
+    second: Light theme spritesheet 2_288
+  - first:
+      213: 1330912516564738972
+    second: Light theme spritesheet 2_289
+  - first:
+      213: 1068494334720868768
+    second: Light theme spritesheet 2_290
+  - first:
+      213: 2461370658131734017
+    second: Light theme spritesheet 2_291
+  - first:
+      213: 6840418415462626403
+    second: Light theme spritesheet 2_292
+  - first:
+      213: -3618008737176027209
+    second: Light theme spritesheet 2_293
+  - first:
+      213: 4692681344999868231
+    second: Light theme spritesheet 2_294
+  - first:
+      213: -3736088111585034056
+    second: Light theme spritesheet 2_295
+  - first:
+      213: 1283271907711525240
+    second: Light theme spritesheet 2_296
+  - first:
+      213: -3388156198701268037
+    second: Light theme spritesheet 2_297
+  - first:
+      213: -1891445040496730593
+    second: Light theme spritesheet 2_298
+  - first:
+      213: -5138076826271768701
+    second: Light theme spritesheet 2_299
+  - first:
+      213: 1113218879277234432
+    second: Light theme spritesheet 2_300
+  - first:
+      213: 3891808401664729175
+    second: Light theme spritesheet 2_301
+  - first:
+      213: 4561811403961604152
+    second: Light theme spritesheet 2_302
+  - first:
+      213: -1895012870266440955
+    second: Light theme spritesheet 2_303
+  - first:
+      213: -2451786954054212808
+    second: Light theme spritesheet 2_304
+  - first:
+      213: 8854393661205293546
+    second: Light theme spritesheet 2_305
+  - first:
+      213: 3326701669017296489
+    second: Light theme spritesheet 2_306
+  - first:
+      213: -7572525083377853171
+    second: Light theme spritesheet 2_307
+  - first:
+      213: -3520702333782248514
+    second: Light theme spritesheet 2_308
+  - first:
+      213: -6276223782956139434
+    second: Light theme spritesheet 2_309
+  - first:
+      213: 5212328775417091892
+    second: Light theme spritesheet 2_310
+  - first:
+      213: -9212481204863024094
+    second: Light theme spritesheet 2_311
+  - first:
+      213: 208226536656230085
+    second: Light theme spritesheet 2_312
+  - first:
+      213: 1983162534772881411
+    second: Light theme spritesheet 2_313
+  - first:
+      213: -4996682483616497089
+    second: Light theme spritesheet 2_314
+  - first:
+      213: -8447845919728525429
+    second: Light theme spritesheet 2_315
+  - first:
+      213: -8740716353172259621
+    second: Light theme spritesheet 2_316
+  - first:
+      213: 3895973534352770239
+    second: Light theme spritesheet 2_317
+  - first:
+      213: 1338893109554236506
+    second: Light theme spritesheet 2_318
+  - first:
+      213: -2046011215106326045
+    second: Light theme spritesheet 2_319
+  - first:
+      213: -403102531476449294
+    second: Light theme spritesheet 2_320
+  - first:
+      213: 6589699552972678245
+    second: Light theme spritesheet 2_321
+  - first:
+      213: -327671393887742189
+    second: Light theme spritesheet 2_322
+  - first:
+      213: -5039437403434101147
+    second: Light theme spritesheet 2_323
+  - first:
+      213: 8332405865147208591
+    second: Light theme spritesheet 2_324
+  - first:
+      213: -3884170666341349618
+    second: Light theme spritesheet 2_325
+  - first:
+      213: -1091082352296991418
+    second: Light theme spritesheet 2_326
+  - first:
+      213: 1630793303554647602
+    second: Light theme spritesheet 2_327
+  - first:
+      213: -3323901863101729259
+    second: Light theme spritesheet 2_328
+  - first:
+      213: -635845917722517557
+    second: Light theme spritesheet 2_329
+  - first:
+      213: -5159641004173908100
+    second: Light theme spritesheet 2_330
+  - first:
+      213: 151023846949318130
+    second: Light theme spritesheet 2_331
+  - first:
+      213: 6933305269160743044
+    second: Light theme spritesheet 2_332
+  - first:
+      213: -2380562925135759312
+    second: Light theme spritesheet 2_333
+  - first:
+      213: -2705567777838133526
+    second: Light theme spritesheet 2_334
+  - first:
+      213: -1675373213374361750
+    second: Light theme spritesheet 2_335
+  - first:
+      213: 7092534995639105824
+    second: Light theme spritesheet 2_336
+  - first:
+      213: 1048791998879291301
+    second: Light theme spritesheet 2_337
+  - first:
+      213: 4572802902076411694
+    second: Light theme spritesheet 2_338
+  - first:
+      213: -919612213580409828
+    second: Light theme spritesheet 2_339
+  - first:
+      213: -5899445864384971862
+    second: Light theme spritesheet 2_340
+  - first:
+      213: -2585281630853792842
+    second: Light theme spritesheet 2_341
+  - first:
+      213: -5548849713821734092
+    second: Light theme spritesheet 2_342
+  - first:
+      213: -5953958681606050476
+    second: Light theme spritesheet 2_343
+  - first:
+      213: -2736100299136552422
+    second: Light theme spritesheet 2_344
+  - first:
+      213: -4111467231589274341
+    second: Light theme spritesheet 2_345
+  - first:
+      213: 610332596911464568
+    second: Light theme spritesheet 2_346
+  - first:
+      213: 8469200864435158957
+    second: Light theme spritesheet 2_347
+  - first:
+      213: -204936630391923114
+    second: Light theme spritesheet 2_348
+  - first:
+      213: -3668434663408289739
+    second: Light theme spritesheet 2_349
+  - first:
+      213: 7648918382360354298
+    second: Light theme spritesheet 2_350
+  - first:
+      213: 8746268568923924736
+    second: Light theme spritesheet 2_351
+  - first:
+      213: -4588044046947066666
+    second: Light theme spritesheet 2_352
+  - first:
+      213: -2979490483959513496
+    second: Light theme spritesheet 2_353
+  - first:
+      213: -5846219854171093972
+    second: Light theme spritesheet 2_354
+  - first:
+      213: 2647699314947817530
+    second: Light theme spritesheet 2_355
+  - first:
+      213: 4536152162518013687
+    second: Light theme spritesheet 2_356
+  - first:
+      213: -423844826189899407
+    second: Light theme spritesheet 2_357
+  - first:
+      213: -1897827748822275773
+    second: Light theme spritesheet 2_358
+  - first:
+      213: -5173140634864110019
+    second: Light theme spritesheet 2_359
+  - first:
+      213: 2834201891957426934
+    second: Light theme spritesheet 2_360
+  - first:
+      213: -2492857012218564201
+    second: Light theme spritesheet 2_361
+  - first:
+      213: -5155083363735764179
+    second: Light theme spritesheet 2_362
+  - first:
+      213: 6522351632374778983
+    second: Light theme spritesheet 2_363
+  - first:
+      213: 7327496959036022597
+    second: Light theme spritesheet 2_364
+  - first:
+      213: 4107241533669099808
+    second: Light theme spritesheet 2_365
+  - first:
+      213: 1326224458207155105
+    second: Light theme spritesheet 2_366
+  - first:
+      213: -4875587505456827080
+    second: Light theme spritesheet 2_367
+  - first:
+      213: -8370968038325434711
+    second: Light theme spritesheet 2_368
+  - first:
+      213: -7974959741531325876
+    second: Light theme spritesheet 2_369
+  - first:
+      213: 7693328779338574041
+    second: Light theme spritesheet 2_370
+  - first:
+      213: 8026678456488327384
+    second: Light theme spritesheet 2_371
+  - first:
+      213: -3667394402303396669
+    second: Light theme spritesheet 2_372
+  - first:
+      213: -712066338634420058
+    second: Light theme spritesheet 2_373
+  - first:
+      213: -354791905827918204
+    second: Light theme spritesheet 2_374
+  - first:
+      213: -3317841938572311921
+    second: Light theme spritesheet 2_375
+  - first:
+      213: -2778038653180357998
+    second: Light theme spritesheet 2_376
+  - first:
+      213: -7959899558328901492
+    second: Light theme spritesheet 2_377
+  - first:
+      213: -8147430121587192911
+    second: Light theme spritesheet 2_378
+  - first:
+      213: -8882350159692365489
+    second: Light theme spritesheet 2_379
+  - first:
+      213: 8709888809171726933
+    second: Light theme spritesheet 2_380
+  - first:
+      213: -1518598078357650888
+    second: Light theme spritesheet 2_381
+  - first:
+      213: 3165988939346489996
+    second: Light theme spritesheet 2_382
+  - first:
+      213: -1694185159761960796
+    second: Light theme spritesheet 2_383
+  - first:
+      213: 4121563523278366457
+    second: Light theme spritesheet 2_384
+  - first:
+      213: 819423581983413469
+    second: Light theme spritesheet 2_385
+  - first:
+      213: 272692300064627419
+    second: Light theme spritesheet 2_386
+  - first:
+      213: -3968986232989400898
+    second: Light theme spritesheet 2_387
+  - first:
+      213: -6469290800898712261
+    second: Light theme spritesheet 2_388
+  - first:
+      213: -1366693585613219186
+    second: Light theme spritesheet 2_389
+  - first:
+      213: -5274421537309800593
+    second: Light theme spritesheet 2_390
+  - first:
+      213: -3562870056793730199
+    second: Light theme spritesheet 2_391
+  - first:
+      213: 1496959142173111269
+    second: Light theme spritesheet 2_392
+  - first:
+      213: 6938461616866868498
+    second: Light theme spritesheet 2_393
+  - first:
+      213: -8491619543761124452
+    second: Light theme spritesheet 2_394
+  - first:
+      213: -4699811267785721520
+    second: Light theme spritesheet 2_395
+  - first:
+      213: -8816242343163873274
+    second: Light theme spritesheet 2_396
+  - first:
+      213: -4445093442648155511
+    second: Light theme spritesheet 2_397
+  - first:
+      213: -5545500309159424371
+    second: Light theme spritesheet 2_398
+  - first:
+      213: 567228217850201571
+    second: Light theme spritesheet 2_399
+  - first:
+      213: 6347748437970643733
+    second: Light theme spritesheet 2_400
+  - first:
+      213: 6813270787744855129
+    second: Light theme spritesheet 2_401
+  - first:
+      213: -8790967251210760779
+    second: Light theme spritesheet 2_402
+  - first:
+      213: -834458686970300349
+    second: Light theme spritesheet 2_403
+  - first:
+      213: -7257724390668306307
+    second: Light theme spritesheet 2_404
+  - first:
+      213: 8636109500132330896
+    second: Light theme spritesheet 2_405
+  - first:
+      213: 4029542963448700935
+    second: Light theme spritesheet 2_406
+  - first:
+      213: 1382101347751699366
+    second: Light theme spritesheet 2_407
+  - first:
+      213: -6464853902579512053
+    second: Light theme spritesheet 2_408
+  - first:
+      213: 8572180456952937339
+    second: Light theme spritesheet 2_409
+  - first:
+      213: -6563000148040813962
+    second: Light theme spritesheet 2_410
+  - first:
+      213: -898394932372386544
+    second: Light theme spritesheet 2_411
+  - first:
+      213: 9120707810149725007
+    second: Light theme spritesheet 2_412
+  - first:
+      213: 2277494934352784743
+    second: Light theme spritesheet 2_413
+  - first:
+      213: 1996167481568343944
+    second: Light theme spritesheet 2_414
+  - first:
+      213: -890313621673637537
+    second: Light theme spritesheet 2_415
+  - first:
+      213: 693491973795561503
+    second: Light theme spritesheet 2_416
+  - first:
+      213: -1972752718628812907
+    second: Light theme spritesheet 2_417
+  - first:
+      213: -5452027240911446082
+    second: Light theme spritesheet 2_418
+  - first:
+      213: 1144665456338923080
+    second: Light theme spritesheet 2_419
+  - first:
+      213: -2611162341787839483
+    second: Light theme spritesheet 2_420
+  - first:
+      213: 4416771466306880092
+    second: Light theme spritesheet 2_421
+  - first:
+      213: -5224096592120344563
+    second: Light theme spritesheet 2_422
+  - first:
+      213: 4994418341385074266
+    second: Light theme spritesheet 2_423
+  - first:
+      213: -4504360455638683903
+    second: Light theme spritesheet 2_424
+  - first:
+      213: 2279948459437189828
+    second: Light theme spritesheet 2_425
+  - first:
+      213: 5807958850007127745
+    second: Light theme spritesheet 2_426
+  - first:
+      213: 2677848125345245941
+    second: Light theme spritesheet 2_427
+  - first:
+      213: -6423933446176869328
+    second: Light theme spritesheet 2_428
+  - first:
+      213: -5172111944151959960
+    second: Light theme spritesheet 2_429
+  - first:
+      213: 7090835772467522919
+    second: Light theme spritesheet 2_430
+  - first:
+      213: -3891791496012210351
+    second: Light theme spritesheet 2_431
+  - first:
+      213: -154819696682841795
+    second: Light theme spritesheet 2_432
+  - first:
+      213: 3926713408323652357
+    second: Light theme spritesheet 2_433
+  - first:
+      213: 8279252958222374735
+    second: Light theme spritesheet 2_434
+  - first:
+      213: 5870897936804646284
+    second: Light theme spritesheet 2_435
+  - first:
+      213: -6180084257680823831
+    second: Light theme spritesheet 2_436
+  - first:
+      213: -6576380418405167237
+    second: Light theme spritesheet 2_437
+  - first:
+      213: -3092769307033329570
+    second: Light theme spritesheet 2_438
+  - first:
+      213: -6585021717883409883
+    second: Light theme spritesheet 2_439
+  - first:
+      213: 8585354825522804569
+    second: Light theme spritesheet 2_440
+  - first:
+      213: -1865065187160046221
+    second: Light theme spritesheet 2_441
+  - first:
+      213: -4689661209840374726
+    second: Light theme spritesheet 2_442
+  - first:
+      213: -1208145339376843718
+    second: Light theme spritesheet 2_443
+  - first:
+      213: 8361987952673625199
+    second: Light theme spritesheet 2_444
+  - first:
+      213: -2768863683147952730
+    second: Light theme spritesheet 2_445
+  - first:
+      213: 4373867953854348960
+    second: Light theme spritesheet 2_446
+  - first:
+      213: -1230015093320850788
+    second: Light theme spritesheet 2_447
+  - first:
+      213: 654437295138593907
+    second: Light theme spritesheet 2_448
+  - first:
+      213: -7368798893674918802
+    second: Light theme spritesheet 2_449
+  - first:
+      213: -1416251225183415134
+    second: Light theme spritesheet 2_450
+  - first:
+      213: 2926880672274205359
+    second: Light theme spritesheet 2_451
+  - first:
+      213: 8530142935641497252
+    second: Light theme spritesheet 2_452
+  - first:
+      213: 4909358529584077424
+    second: Light theme spritesheet 2_453
+  - first:
+      213: -4691206674767613
+    second: Light theme spritesheet 2_454
+  - first:
+      213: -4644151736151635188
+    second: Light theme spritesheet 2_455
+  - first:
+      213: 4296194308645955030
+    second: Light theme spritesheet 2_456
+  - first:
+      213: -8087684485181696727
+    second: Light theme spritesheet 2_457
+  - first:
+      213: -5040707201289758691
+    second: Light theme spritesheet 2_458
+  - first:
+      213: 2649984651984477867
+    second: Light theme spritesheet 2_459
+  - first:
+      213: -2170651499154658367
+    second: Light theme spritesheet 2_460
+  - first:
+      213: 3913279741165819096
+    second: Light theme spritesheet 2_461
+  - first:
+      213: 1164128917223933650
+    second: Light theme spritesheet 2_462
+  - first:
+      213: 2476467592666584280
+    second: Light theme spritesheet 2_463
+  - first:
+      213: 8947704514659176430
+    second: Light theme spritesheet 2_464
+  - first:
+      213: 3283411915230623699
+    second: Light theme spritesheet 2_465
+  - first:
+      213: -3318403905212892414
+    second: Light theme spritesheet 2_466
+  - first:
+      213: 6702942773195732382
+    second: Light theme spritesheet 2_467
+  - first:
+      213: 260140813395304584
+    second: Light theme spritesheet 2_468
+  - first:
+      213: -5629090738211974310
+    second: Light theme spritesheet 2_469
+  - first:
+      213: -1216119792654657012
+    second: Light theme spritesheet 2_470
+  - first:
+      213: 7583705769206062184
+    second: Light theme spritesheet 2_471
+  - first:
+      213: 3499734600501717028
+    second: Light theme spritesheet 2_472
+  - first:
+      213: 4484475820323316112
+    second: Light theme spritesheet 2_473
+  - first:
+      213: -798836833371338861
+    second: Light theme spritesheet 2_474
+  - first:
+      213: -3650263989046679973
+    second: Light theme spritesheet 2_475
+  - first:
+      213: -8500688920297787892
+    second: Light theme spritesheet 2_476
+  - first:
+      213: -5566529783224307378
+    second: Light theme spritesheet 2_477
+  - first:
+      213: -4895548156675761696
+    second: Light theme spritesheet 2_478
+  - first:
+      213: -5403577180576088331
+    second: Light theme spritesheet 2_479
+  - first:
+      213: 1116084445257842167
+    second: Light theme spritesheet 2_480
+  - first:
+      213: 5918448414511953592
+    second: Light theme spritesheet 2_481
+  - first:
+      213: 5090863429501700222
+    second: Light theme spritesheet 2_482
+  - first:
+      213: 3868690269087196871
+    second: Light theme spritesheet 2_483
+  - first:
+      213: -8128037028802034857
+    second: Light theme spritesheet 2_484
+  - first:
+      213: -3436387022643905002
+    second: Light theme spritesheet 2_485
+  - first:
+      213: 6115372584647556865
+    second: Light theme spritesheet 2_486
+  - first:
+      213: 4225231385093808443
+    second: Light theme spritesheet 2_487
+  - first:
+      213: -2284355173642947631
+    second: Light theme spritesheet 2_488
+  - first:
+      213: 5461648081594974433
+    second: Light theme spritesheet 2_489
+  - first:
+      213: 88235622543444304
+    second: Light theme spritesheet 2_490
+  - first:
+      213: 3069031078351214132
+    second: Light theme spritesheet 2_491
+  - first:
+      213: -2392795028265561338
+    second: Light theme spritesheet 2_492
+  - first:
+      213: 7221531003078838821
+    second: Light theme spritesheet 2_493
+  - first:
+      213: -4071621161481828639
+    second: Light theme spritesheet 2_494
+  - first:
+      213: 3775314122371492310
+    second: Light theme spritesheet 2_495
+  - first:
+      213: 2772434469945192028
+    second: Light theme spritesheet 2_496
+  - first:
+      213: -5446801024474942015
+    second: Light theme spritesheet 2_497
+  - first:
+      213: 963919680299824898
+    second: Light theme spritesheet 2_498
+  - first:
+      213: 62087126045919620
+    second: Light theme spritesheet 2_499
+  - first:
+      213: -5022904097599278476
+    second: Light theme spritesheet 2_500
+  - first:
+      213: -6925869277881932671
+    second: Light theme spritesheet 2_501
+  - first:
+      213: -58457662606439633
+    second: Light theme spritesheet 2_502
+  - first:
+      213: -5962253373686976088
+    second: Light theme spritesheet 2_503
+  - first:
+      213: -7068010328830300587
+    second: Light theme spritesheet 2_504
+  - first:
+      213: 7518474550778610498
+    second: Light theme spritesheet 2_505
+  - first:
+      213: 118150587684261063
+    second: Light theme spritesheet 2_506
+  - first:
+      213: 7625499756057588197
+    second: Light theme spritesheet 2_507
+  - first:
+      213: -2269890358337910343
+    second: Light theme spritesheet 2_508
+  - first:
+      213: 3640805090508334195
+    second: Light theme spritesheet 2_509
+  - first:
+      213: -8777105208492624267
+    second: Light theme spritesheet 2_510
+  - first:
+      213: -8147032578097848089
+    second: Light theme spritesheet 2_511
+  - first:
+      213: 6766477487301582965
+    second: Light theme spritesheet 2_512
+  - first:
+      213: 2304248971397286381
+    second: Light theme spritesheet 2_513
+  - first:
+      213: -8836685711717076212
+    second: Light theme spritesheet 2_514
+  - first:
+      213: -7093731316294962569
+    second: Light theme spritesheet 2_515
+  - first:
+      213: 1504252837067969835
+    second: Light theme spritesheet 2_516
+  - first:
+      213: -5825926674481911995
+    second: Light theme spritesheet 2_517
+  - first:
+      213: 515171188835218219
+    second: Light theme spritesheet 2_518
+  - first:
+      213: -6021644099891703422
+    second: Light theme spritesheet 2_519
+  - first:
+      213: -9201594113774296547
+    second: Light theme spritesheet 2_520
+  - first:
+      213: 6069310828586847378
+    second: Light theme spritesheet 2_521
+  - first:
+      213: -2262728984798420595
+    second: Light theme spritesheet 2_522
+  - first:
+      213: 8160903003763617754
+    second: Light theme spritesheet 2_523
+  - first:
+      213: -8474884282827085557
+    second: Light theme spritesheet 2_524
+  - first:
+      213: -3903684348533114145
+    second: Light theme spritesheet 2_525
+  - first:
+      213: 5815902708787329611
+    second: Light theme spritesheet 2_526
+  - first:
+      213: -4584453223221542480
+    second: Light theme spritesheet 2_527
+  - first:
+      213: -8692680004008836341
+    second: Light theme spritesheet 2_528
+  - first:
+      213: -180741578536784444
+    second: Light theme spritesheet 2_529
+  - first:
+      213: -2463477610696087626
+    second: Light theme spritesheet 2_530
+  - first:
+      213: -3252793264820975273
+    second: Light theme spritesheet 2_531
+  - first:
+      213: 976500306090239583
+    second: Light theme spritesheet 2_532
+  - first:
+      213: 3994736921269049656
+    second: Light theme spritesheet 2_533
+  - first:
+      213: 7278417190042006605
+    second: Light theme spritesheet 2_534
+  - first:
+      213: 4900308827453479810
+    second: Light theme spritesheet 2_535
+  - first:
+      213: -5242855081526346732
+    second: Light theme spritesheet 2_536
+  - first:
+      213: 6994949342357657429
+    second: Light theme spritesheet 2_537
+  - first:
+      213: 95620194838283326
+    second: Light theme spritesheet 2_538
+  - first:
+      213: 3297759343757337209
+    second: Light theme spritesheet 2_539
+  - first:
+      213: 2580360428323239502
+    second: Light theme spritesheet 2_540
+  - first:
+      213: -5998507886495509403
+    second: Light theme spritesheet 2_541
+  - first:
+      213: -102422591625541021
+    second: Light theme spritesheet 2_542
+  - first:
+      213: -5109860859792958587
+    second: Light theme spritesheet 2_543
+  - first:
+      213: 3714998123579143295
+    second: Light theme spritesheet 2_544
+  - first:
+      213: -333308431325138681
+    second: Light theme spritesheet 2_545
+  - first:
+      213: 1974413779115313950
+    second: Light theme spritesheet 2_546
+  - first:
+      213: 4274204751743133011
+    second: Light theme spritesheet 2_547
+  - first:
+      213: -1671812805067471680
+    second: Light theme spritesheet 2_548
+  - first:
+      213: -7566996238132024455
+    second: Light theme spritesheet 2_549
+  - first:
+      213: -7307484631319001575
+    second: Light theme spritesheet 2_550
+  - first:
+      213: 9174947120861514811
+    second: Light theme spritesheet 2_551
+  - first:
+      213: -2189885058647140723
+    second: Light theme spritesheet 2_552
+  - first:
+      213: 1774207589475617270
+    second: Light theme spritesheet 2_553
+  - first:
+      213: 7234521519181713055
+    second: Light theme spritesheet 2_554
+  - first:
+      213: 7277385751731076215
+    second: Light theme spritesheet 2_555
+  - first:
+      213: -9205287203983235307
+    second: Light theme spritesheet 2_556
+  - first:
+      213: 8920693157123528899
+    second: Light theme spritesheet 2_557
+  - first:
+      213: 8586614897290345541
+    second: Light theme spritesheet 2_558
+  - first:
+      213: 4327583969168152587
+    second: Light theme spritesheet 2_559
+  - first:
+      213: 7236567906912491526
+    second: Light theme spritesheet 2_560
+  - first:
+      213: -678268683157657297
+    second: Light theme spritesheet 2_561
+  - first:
+      213: -7860616332025347304
+    second: Light theme spritesheet 2_562
+  - first:
+      213: 3100277039096060810
+    second: Light theme spritesheet 2_563
+  - first:
+      213: 3523666999391093568
+    second: Light theme spritesheet 2_564
+  - first:
+      213: 3024063644283653061
+    second: Light theme spritesheet 2_565
+  - first:
+      213: -7075938198283751637
+    second: Light theme spritesheet 2_566
+  - first:
+      213: 858528886406758077
+    second: Light theme spritesheet 2_567
+  - first:
+      213: 2082307671449052876
+    second: Light theme spritesheet 2_568
+  - first:
+      213: -2763170734011070664
+    second: Light theme spritesheet 2_569
+  - first:
+      213: -162845113764302906
+    second: Light theme spritesheet 2_570
+  - first:
+      213: -3196809456084049245
+    second: Light theme spritesheet 2_571
+  - first:
+      213: 6836353400069839655
+    second: Light theme spritesheet 2_572
+  - first:
+      213: -2801414932201793867
+    second: Light theme spritesheet 2_573
+  - first:
+      213: 3767220229748597658
+    second: Light theme spritesheet 2_574
+  - first:
+      213: 590496275735424817
+    second: Light theme spritesheet 2_575
+  - first:
+      213: 5712430679455497056
+    second: Light theme spritesheet 2_576
+  - first:
+      213: 4740889143960041670
+    second: Light theme spritesheet 2_577
+  - first:
+      213: -4130406482959027863
+    second: Light theme spritesheet 2_578
+  - first:
+      213: -4830054882079331783
+    second: Light theme spritesheet 2_579
+  - first:
+      213: -5070797367416340802
+    second: Light theme spritesheet 2_580
+  - first:
+      213: 3699561828036971606
+    second: Light theme spritesheet 2_581
+  - first:
+      213: 1790976621751141866
+    second: Light theme spritesheet 2_582
+  - first:
+      213: 2345842042560505370
+    second: Light theme spritesheet 2_583
+  - first:
+      213: 6748676726828953272
+    second: Light theme spritesheet 2_584
+  - first:
+      213: -6738269468723653381
+    second: Light theme spritesheet 2_585
+  - first:
+      213: 1062024749997535750
+    second: Light theme spritesheet 2_586
+  - first:
+      213: 4360394010823699620
+    second: Light theme spritesheet 2_587
+  - first:
+      213: -3069949548354507405
+    second: Light theme spritesheet 2_588
+  - first:
+      213: -289658312592342556
+    second: Light theme spritesheet 2_589
+  - first:
+      213: -4581700609646027121
+    second: Light theme spritesheet 2_590
+  - first:
+      213: -4956520300613573144
+    second: Light theme spritesheet 2_591
+  - first:
+      213: 2764262340789893770
+    second: Light theme spritesheet 2_592
+  - first:
+      213: -2041293542245445571
+    second: Light theme spritesheet 2_593
+  - first:
+      213: 8957225072610347951
+    second: Light theme spritesheet 2_594
+  - first:
+      213: -7367200979253321096
+    second: Light theme spritesheet 2_595
+  - first:
+      213: 8547651927818685676
+    second: Light theme spritesheet 2_596
+  - first:
+      213: 6175721502412444341
+    second: Light theme spritesheet 2_597
+  - first:
+      213: -9147925863641859058
+    second: Light theme spritesheet 2_598
+  - first:
+      213: -2633744775236600830
+    second: Light theme spritesheet 2_599
+  - first:
+      213: 3116792425169572292
+    second: Light theme spritesheet 2_600
+  - first:
+      213: -9167442895833268416
+    second: Light theme spritesheet 2_601
+  - first:
+      213: -2254153299501904977
+    second: Light theme spritesheet 2_602
+  - first:
+      213: 286433898160996094
+    second: Light theme spritesheet 2_603
+  - first:
+      213: 895148031083527237
+    second: Light theme spritesheet 2_604
+  - first:
+      213: -3217633763300531533
+    second: Light theme spritesheet 2_605
+  - first:
+      213: 5304727328702493897
+    second: Light theme spritesheet 2_606
+  - first:
+      213: 9048873680107559100
+    second: Light theme spritesheet 2_607
+  - first:
+      213: -7334198119525293797
+    second: Light theme spritesheet 2_608
+  - first:
+      213: 2955425062573705862
+    second: Light theme spritesheet 2_609
+  - first:
+      213: 4491913868841258064
+    second: Light theme spritesheet 2_610
+  - first:
+      213: -7747336597362970617
+    second: Light theme spritesheet 2_611
+  - first:
+      213: 8015320667769253886
+    second: Light theme spritesheet 2_612
+  - first:
+      213: -3406406589476101028
+    second: Light theme spritesheet 2_613
+  - first:
+      213: -4609171933435319478
+    second: Light theme spritesheet 2_614
+  - first:
+      213: -4873161915017010855
+    second: Light theme spritesheet 2_615
+  - first:
+      213: 1197044998297022666
+    second: Light theme spritesheet 2_616
+  - first:
+      213: 6395262076972608465
+    second: Light theme spritesheet 2_617
+  - first:
+      213: 8369510809584540261
+    second: Light theme spritesheet 2_618
+  - first:
+      213: 3933567363869442546
+    second: Light theme spritesheet 2_619
+  - first:
+      213: 5987491431583447814
+    second: Light theme spritesheet 2_620
+  - first:
+      213: -7305813197554463082
+    second: Light theme spritesheet 2_621
+  - first:
+      213: 7535878688165068554
+    second: Light theme spritesheet 2_622
+  - first:
+      213: -5962118911734131699
+    second: Light theme spritesheet 2_623
+  - first:
+      213: 7210114814798576492
+    second: Light theme spritesheet 2_624
+  - first:
+      213: 5520263653152912326
+    second: Light theme spritesheet 2_625
+  - first:
+      213: -3654565272024410049
+    second: Light theme spritesheet 2_626
+  - first:
+      213: 8340962879848157580
+    second: Light theme spritesheet 2_627
+  - first:
+      213: -5880316921691065927
+    second: Light theme spritesheet 2_628
+  - first:
+      213: -2887897004994379774
+    second: Light theme spritesheet 2_629
+  - first:
+      213: -237890986793710449
+    second: Light theme spritesheet 2_630
+  - first:
+      213: 7735271436371189471
+    second: Light theme spritesheet 2_631
+  - first:
+      213: 535271918157921387
+    second: Light theme spritesheet 2_632
+  - first:
+      213: -4890459335658971550
+    second: Light theme spritesheet 2_633
+  - first:
+      213: 26545618990714162
+    second: Light theme spritesheet 2_634
+  - first:
+      213: 3885444813506462476
+    second: Light theme spritesheet 2_635
+  - first:
+      213: -8038172777229319083
+    second: Light theme spritesheet 2_636
+  - first:
+      213: 3601791318065058648
+    second: Light theme spritesheet 2_637
+  - first:
+      213: 330259565346734958
+    second: Light theme spritesheet 2_638
+  - first:
+      213: 5885793004586452772
+    second: Light theme spritesheet 2_639
+  - first:
+      213: 616901814364108819
+    second: Light theme spritesheet 2_640
+  - first:
+      213: -3144361982963023795
+    second: Light theme spritesheet 2_641
+  - first:
+      213: 7812689214340349012
+    second: Light theme spritesheet 2_642
+  - first:
+      213: 2120400743273322146
+    second: Light theme spritesheet 2_643
+  - first:
+      213: 2809268615724860924
+    second: Light theme spritesheet 2_644
+  - first:
+      213: 2116160368954261231
+    second: Light theme spritesheet 2_645
+  - first:
+      213: -8912049910022749818
+    second: Light theme spritesheet 2_646
+  - first:
+      213: -4292677821928893408
+    second: Light theme spritesheet 2_647
+  - first:
+      213: -5850101937591038322
+    second: Light theme spritesheet 2_648
+  - first:
+      213: 8746666234197829726
+    second: Light theme spritesheet 2_649
+  - first:
+      213: 7875103884168742321
+    second: Light theme spritesheet 2_650
+  - first:
+      213: -2993022625196995248
+    second: Light theme spritesheet 2_651
+  - first:
+      213: 7492453764792650727
+    second: Light theme spritesheet 2_652
+  - first:
+      213: 3002674517783818154
+    second: Light theme spritesheet 2_653
+  - first:
+      213: -2731697781993703424
+    second: Light theme spritesheet 2_654
+  - first:
+      213: -4832902128813658185
+    second: Light theme spritesheet 2_655
+  - first:
+      213: -6779356973363549982
+    second: Light theme spritesheet 2_656
+  - first:
+      213: 7947152723094519416
+    second: Light theme spritesheet 2_657
+  - first:
+      213: 2059609505048246595
+    second: Light theme spritesheet 2_658
+  - first:
+      213: -5296865569721133122
+    second: Light theme spritesheet 2_659
+  - first:
+      213: 1573382175510122293
+    second: Light theme spritesheet 2_660
+  - first:
+      213: 9040074361650337759
+    second: Light theme spritesheet 2_661
+  - first:
+      213: 8537211370276487058
+    second: Light theme spritesheet 2_662
+  - first:
+      213: 575707832639035404
+    second: Light theme spritesheet 2_663
+  - first:
+      213: 2244603674053207214
+    second: Light theme spritesheet 2_664
+  - first:
+      213: -4914850363271880500
+    second: Light theme spritesheet 2_665
+  - first:
+      213: -502387992469995888
+    second: Light theme spritesheet 2_666
+  - first:
+      213: 4280190319418070817
+    second: Light theme spritesheet 2_667
+  - first:
+      213: -5063361589798754619
+    second: Light theme spritesheet 2_668
+  - first:
+      213: -2599781675185669776
+    second: Light theme spritesheet 2_669
+  - first:
+      213: -8207633315900270660
+    second: Light theme spritesheet 2_670
+  - first:
+      213: 900229907767656224
+    second: Light theme spritesheet 2_671
+  - first:
+      213: 9019938004571478487
+    second: Light theme spritesheet 2_672
+  - first:
+      213: 6910471376689872744
+    second: Light theme spritesheet 2_673
+  - first:
+      213: -3745768291683897885
+    second: Light theme spritesheet 2_674
+  - first:
+      213: -7733924952193937070
+    second: Light theme spritesheet 2_675
+  - first:
+      213: -2203601920619825905
+    second: Light theme spritesheet 2_676
+  - first:
+      213: 197436772254088317
+    second: Light theme spritesheet 2_677
+  - first:
+      213: -6315109711365923358
+    second: Light theme spritesheet 2_678
+  - first:
+      213: 2310618073069431014
+    second: Light theme spritesheet 2_679
+  - first:
+      213: -9109260565237862053
+    second: Light theme spritesheet 2_680
+  - first:
+      213: -3298182596832931932
+    second: Light theme spritesheet 2_681
+  - first:
+      213: -5870081259321846839
+    second: Light theme spritesheet 2_682
+  - first:
+      213: -5429436457799708887
+    second: Light theme spritesheet 2_683
+  - first:
+      213: -3312240504779725882
+    second: Light theme spritesheet 2_684
+  - first:
+      213: 2048118889938559874
+    second: Light theme spritesheet 2_685
+  - first:
+      213: -5942426576311137603
+    second: Light theme spritesheet 2_686
+  - first:
+      213: 5545126799764159414
+    second: Light theme spritesheet 2_687
+  - first:
+      213: 2987762661156133684
+    second: Light theme spritesheet 2_688
+  - first:
+      213: -6184238268413708592
+    second: Light theme spritesheet 2_689
+  - first:
+      213: -6022932181132077364
+    second: Light theme spritesheet 2_690
+  - first:
+      213: -4533963657272461190
+    second: Light theme spritesheet 2_691
+  - first:
+      213: 5629403337900590523
+    second: Light theme spritesheet 2_692
+  - first:
+      213: 4315279832454010162
+    second: Light theme spritesheet 2_693
+  - first:
+      213: -8574344482338232951
+    second: Light theme spritesheet 2_694
+  - first:
+      213: -2369895496402413507
+    second: Light theme spritesheet 2_695
+  - first:
+      213: -958370941226229403
+    second: Light theme spritesheet 2_696
+  - first:
+      213: -6875224268780627960
+    second: Light theme spritesheet 2_697
+  - first:
+      213: 6699024763500078407
+    second: Light theme spritesheet 2_698
+  - first:
+      213: -1751779340825252764
+    second: Light theme spritesheet 2_699
+  - first:
+      213: -2640594245929042556
+    second: Light theme spritesheet 2_700
+  - first:
+      213: 210438898752943747
+    second: Light theme spritesheet 2_701
+  - first:
+      213: -8002605820173685338
+    second: Light theme spritesheet 2_702
+  - first:
+      213: -4235806466486745539
+    second: Light theme spritesheet 2_703
+  - first:
+      213: -4348350704553265439
+    second: Light theme spritesheet 2_704
+  - first:
+      213: -4653877183892654792
+    second: Light theme spritesheet 2_705
+  - first:
+      213: 8162878496328273125
+    second: Light theme spritesheet 2_706
+  - first:
+      213: 749760289547104055
+    second: Light theme spritesheet 2_707
+  - first:
+      213: -1632751069547370745
+    second: Light theme spritesheet 2_708
+  - first:
+      213: -2622236892295278832
+    second: Light theme spritesheet 2_709
+  - first:
+      213: -3062814580798279007
+    second: Light theme spritesheet 2_710
+  - first:
+      213: 447731502203737874
+    second: Light theme spritesheet 2_711
+  - first:
+      213: 388911462393547342
+    second: Light theme spritesheet 2_712
+  - first:
+      213: -5736564388027038282
+    second: Light theme spritesheet 2_713
+  - first:
+      213: 2823237499814672418
+    second: Light theme spritesheet 2_714
+  - first:
+      213: -412222543465644071
+    second: Light theme spritesheet 2_715
+  - first:
+      213: -3370411303180927069
+    second: Light theme spritesheet 2_716
+  - first:
+      213: 5672440961708049536
+    second: Light theme spritesheet 2_717
+  - first:
+      213: -1606886274402035513
+    second: Light theme spritesheet 2_718
+  - first:
+      213: 4080828748559542928
+    second: Light theme spritesheet 2_719
+  - first:
+      213: 5624940072580952940
+    second: Light theme spritesheet 2_720
+  - first:
+      213: -5389980029590334984
+    second: Light theme spritesheet 2_721
+  - first:
+      213: 691263975442266389
+    second: Light theme spritesheet 2_722
+  - first:
+      213: -2508974606075932031
+    second: Light theme spritesheet 2_723
+  - first:
+      213: -2005533547886794055
+    second: Light theme spritesheet 2_724
+  - first:
+      213: -5528472072461941494
+    second: Light theme spritesheet 2_725
+  - first:
+      213: 2873839560507899692
+    second: Light theme spritesheet 2_726
+  - first:
+      213: -8468322911573863261
+    second: Light theme spritesheet 2_727
+  - first:
+      213: -7960002360851327368
+    second: Light theme spritesheet 2_728
+  - first:
+      213: 5126722599682587454
+    second: Light theme spritesheet 2_729
+  - first:
+      213: -8381422002665798158
+    second: Light theme spritesheet 2_730
+  - first:
+      213: -1840708279667609313
+    second: Light theme spritesheet 2_731
+  - first:
+      213: 4944260186706372921
+    second: Light theme spritesheet 2_732
+  - first:
+      213: 2907872999241110730
+    second: Light theme spritesheet 2_733
+  - first:
+      213: -1445949158451985101
+    second: Light theme spritesheet 2_734
+  - first:
+      213: -3267312685454656318
+    second: Light theme spritesheet 2_735
+  - first:
+      213: 6470380125107867315
+    second: Light theme spritesheet 2_736
+  - first:
+      213: 8495491647079044254
+    second: Light theme spritesheet 2_737
+  - first:
+      213: -687444676649238960
+    second: Light theme spritesheet 2_738
+  - first:
+      213: 3767848398888260209
+    second: Light theme spritesheet 2_739
+  - first:
+      213: 7577784671703446457
+    second: Light theme spritesheet 2_740
+  - first:
+      213: 5063671950555804556
+    second: Light theme spritesheet 2_741
+  - first:
+      213: 3594947299782390573
+    second: Light theme spritesheet 2_742
+  - first:
+      213: -6270795951031401170
+    second: Light theme spritesheet 2_743
+  - first:
+      213: 4066373059981003191
+    second: Light theme spritesheet 2_744
+  - first:
+      213: -2355363557253612178
+    second: Light theme spritesheet 2_745
+  - first:
+      213: 5551297178537409114
+    second: Light theme spritesheet 2_746
+  - first:
+      213: -2598916821379174786
+    second: Light theme spritesheet 2_747
+  - first:
+      213: -2104528782172812448
+    second: Light theme spritesheet 2_748
+  - first:
+      213: -8249398220426717181
+    second: Light theme spritesheet 2_749
+  - first:
+      213: -1244169280851643524
+    second: Light theme spritesheet 2_750
+  - first:
+      213: -2652556296575031894
+    second: Light theme spritesheet 2_751
+  - first:
+      213: -3770289049940603432
+    second: Light theme spritesheet 2_752
+  - first:
+      213: 5954957097426156368
+    second: Light theme spritesheet 2_753
+  - first:
+      213: 8972552178868954347
+    second: Light theme spritesheet 2_754
+  - first:
+      213: 2302798140387859821
+    second: Light theme spritesheet 2_755
+  - first:
+      213: 3695513205675857953
+    second: Light theme spritesheet 2_756
+  - first:
+      213: 3542485345209672290
+    second: Light theme spritesheet 2_757
+  - first:
+      213: 4460503876652494217
+    second: Light theme spritesheet 2_758
+  - first:
+      213: 7272454504056014555
+    second: Light theme spritesheet 2_759
+  - first:
+      213: 6485701422112180618
+    second: Light theme spritesheet 2_760
+  - first:
+      213: -1668513880006461761
+    second: Light theme spritesheet 2_761
+  - first:
+      213: -55506940495773292
+    second: Light theme spritesheet 2_762
+  - first:
+      213: 2096871869921318237
+    second: Light theme spritesheet 2_763
+  - first:
+      213: -5271767867688070072
+    second: Light theme spritesheet 2_764
+  - first:
+      213: -4207056634205754545
+    second: Light theme spritesheet 2_765
+  - first:
+      213: -8864599639817360198
+    second: Light theme spritesheet 2_766
+  - first:
+      213: -8849351265051073644
+    second: Light theme spritesheet 2_767
+  - first:
+      213: 6269909514368901099
+    second: Light theme spritesheet 2_768
+  - first:
+      213: 978378070453201407
+    second: Light theme spritesheet 2_769
+  - first:
+      213: -7617980108513474947
+    second: Light theme spritesheet 2_770
+  - first:
+      213: -7795661276521027463
+    second: Light theme spritesheet 2_771
+  - first:
+      213: -5098121565930045191
+    second: Light theme spritesheet 2_772
+  - first:
+      213: -2412428726554095387
+    second: Light theme spritesheet 2_773
+  - first:
+      213: -5096119830857278342
+    second: Light theme spritesheet 2_774
+  - first:
+      213: -4173311573229295651
+    second: Light theme spritesheet 2_775
+  - first:
+      213: 3154532801977942033
+    second: Light theme spritesheet 2_776
+  - first:
+      213: -7045494248292370469
+    second: Light theme spritesheet 2_777
+  - first:
+      213: 2654506260629558348
+    second: Light theme spritesheet 2_778
+  - first:
+      213: -5647228534598211994
+    second: Light theme spritesheet 2_779
+  - first:
+      213: 8912707034400856880
+    second: Light theme spritesheet 2_780
+  - first:
+      213: 962782298497327187
+    second: Light theme spritesheet 2_781
+  - first:
+      213: 7838044395933019860
+    second: Light theme spritesheet 2_782
+  - first:
+      213: -6620991371480237395
+    second: Light theme spritesheet 2_783
+  - first:
+      213: -4697431912317597097
+    second: Light theme spritesheet 2_784
+  - first:
+      213: 1273880337721718609
+    second: Light theme spritesheet 2_785
+  - first:
+      213: 797348993807180297
+    second: Light theme spritesheet 2_786
+  - first:
+      213: -8312593888201479433
+    second: Light theme spritesheet 2_787
+  - first:
+      213: -3809653534054984990
+    second: Light theme spritesheet 2_788
+  - first:
+      213: 5918380743170152281
+    second: Light theme spritesheet 2_789
+  - first:
+      213: -2182651992290679032
+    second: Light theme spritesheet 2_790
+  - first:
+      213: -3936733826986693223
+    second: Light theme spritesheet 2_791
+  - first:
+      213: -255915062507583923
+    second: Light theme spritesheet 2_792
+  - first:
+      213: 5258289564173600731
+    second: Light theme spritesheet 2_793
+  - first:
+      213: -5815180702852673928
+    second: Light theme spritesheet 2_794
+  - first:
+      213: 9076547594608642822
+    second: Light theme spritesheet 2_795
+  - first:
+      213: 1924892301470195049
+    second: Light theme spritesheet 2_796
+  - first:
+      213: 4456799202812686286
+    second: Light theme spritesheet 2_797
+  - first:
+      213: -6797033690118227159
+    second: Light theme spritesheet 2_798
+  - first:
+      213: 3049269186300252701
+    second: Light theme spritesheet 2_799
+  - first:
+      213: 9144443802579184948
+    second: Light theme spritesheet 2_800
+  - first:
+      213: 8971092480902007597
+    second: Light theme spritesheet 2_801
+  - first:
+      213: 5585660225259326330
+    second: Light theme spritesheet 2_802
+  - first:
+      213: 5625958658310537145
+    second: Light theme spritesheet 2_803
+  - first:
+      213: 2417095343084752156
+    second: Light theme spritesheet 2_804
+  - first:
+      213: -5422009064417491958
+    second: Light theme spritesheet 2_805
+  - first:
+      213: 8509987998573804381
+    second: Light theme spritesheet 2_806
+  - first:
+      213: 6840644272978286326
+    second: Light theme spritesheet 2_807
+  - first:
+      213: 6279386679744963805
+    second: Light theme spritesheet 2_808
+  - first:
+      213: -4113538468970358572
+    second: Light theme spritesheet 2_809
+  - first:
+      213: 2401873409509042048
+    second: Light theme spritesheet 2_810
+  - first:
+      213: 4266402872995027681
+    second: Light theme spritesheet 2_811
+  - first:
+      213: -6985398350545565270
+    second: Light theme spritesheet 2_812
+  - first:
+      213: -1319395913418350447
+    second: Light theme spritesheet 2_813
+  - first:
+      213: -1838427825937599626
+    second: Light theme spritesheet 2_814
+  - first:
+      213: -8053283221900536547
+    second: Light theme spritesheet 2_815
+  - first:
+      213: -2397380437850216540
+    second: Light theme spritesheet 2_816
+  - first:
+      213: 7847772024487933597
+    second: Light theme spritesheet 2_817
+  - first:
+      213: 2289199930596248485
+    second: Light theme spritesheet 2_818
+  - first:
+      213: 8462364392319217168
+    second: Light theme spritesheet 2_819
+  - first:
+      213: 4075445033565995181
+    second: Light theme spritesheet 2_820
+  - first:
+      213: -1100424079451029904
+    second: Light theme spritesheet 2_821
+  - first:
+      213: -1673921725519538094
+    second: Light theme spritesheet 2_822
+  - first:
+      213: -1434278824725902191
+    second: Light theme spritesheet 2_823
+  - first:
+      213: -7818764450106918000
+    second: Light theme spritesheet 2_824
+  - first:
+      213: 3591707817774890863
+    second: Light theme spritesheet 2_825
+  - first:
+      213: -3090258714177061449
+    second: Light theme spritesheet 2_826
+  - first:
+      213: -3466451086914919530
+    second: Light theme spritesheet 2_827
+  - first:
+      213: 3200811608792213917
+    second: Light theme spritesheet 2_828
+  - first:
+      213: 3012213700542104282
+    second: Light theme spritesheet 2_829
+  - first:
+      213: -4018633965066167079
+    second: Light theme spritesheet 2_830
+  - first:
+      213: 7582081109911533645
+    second: Light theme spritesheet 2_831
+  - first:
+      213: -5039801968041416906
+    second: Light theme spritesheet 2_832
+  - first:
+      213: -3928522496302228574
+    second: Light theme spritesheet 2_833
+  - first:
+      213: 1502588568043818176
+    second: Light theme spritesheet 2_834
+  - first:
+      213: 5655803978530654019
+    second: Light theme spritesheet 2_835
+  - first:
+      213: -5234982866316614145
+    second: Light theme spritesheet 2_836
+  - first:
+      213: 2299537304630696808
+    second: Light theme spritesheet 2_837
+  - first:
+      213: -357385475470357529
+    second: Light theme spritesheet 2_838
+  - first:
+      213: 774490968631449587
+    second: Light theme spritesheet 2_839
+  - first:
+      213: -678025076044721144
+    second: Light theme spritesheet 2_840
+  - first:
+      213: 5557733295805982
+    second: Light theme spritesheet 2_841
+  - first:
+      213: 522696017491935701
+    second: Light theme spritesheet 2_842
+  - first:
+      213: -4973878595922194480
+    second: Light theme spritesheet 2_843
+  - first:
+      213: 4244639369357066542
+    second: Light theme spritesheet 2_844
+  - first:
+      213: -4180320558671568357
+    second: Light theme spritesheet 2_845
+  - first:
+      213: 7350804470711535047
+    second: Light theme spritesheet 2_846
+  - first:
+      213: -6340598429403971831
+    second: Light theme spritesheet 2_847
+  - first:
+      213: -4589550931386245092
+    second: Light theme spritesheet 2_848
+  - first:
+      213: -6476929882612379767
+    second: Light theme spritesheet 2_849
+  - first:
+      213: -5885458976245701574
+    second: Light theme spritesheet 2_850
+  - first:
+      213: 2454416705195356138
+    second: Light theme spritesheet 2_851
+  - first:
+      213: 4317608847075678482
+    second: Light theme spritesheet 2_852
+  - first:
+      213: 4096962209048216315
+    second: Light theme spritesheet 2_853
+  - first:
+      213: -120829133023139484
+    second: Light theme spritesheet 2_854
+  - first:
+      213: -4955394211589800989
+    second: Light theme spritesheet 2_855
+  - first:
+      213: 6910422974892969062
+    second: Light theme spritesheet 2_856
+  - first:
+      213: -6375680064793993004
+    second: Light theme spritesheet 2_857
+  - first:
+      213: -8796556185016237773
+    second: Light theme spritesheet 2_858
+  - first:
+      213: -2814871510565364120
+    second: Light theme spritesheet 2_859
+  - first:
+      213: 4649378455981263046
+    second: Light theme spritesheet 2_860
+  - first:
+      213: -532923883238532228
+    second: Light theme spritesheet 2_861
+  - first:
+      213: 4052585304951904918
+    second: Light theme spritesheet 2_862
+  - first:
+      213: -3922192606442466962
+    second: Light theme spritesheet 2_863
+  - first:
+      213: 3623722202338974193
+    second: Light theme spritesheet 2_864
+  - first:
+      213: -4713825345450098662
+    second: Light theme spritesheet 2_865
+  - first:
+      213: 6713266602858779961
+    second: Light theme spritesheet 2_866
+  - first:
+      213: 3110997124325800341
+    second: Light theme spritesheet 2_867
+  - first:
+      213: 4416536081675757714
+    second: Light theme spritesheet 2_868
+  - first:
+      213: -1754065544617005696
+    second: Light theme spritesheet 2_869
+  - first:
+      213: 4751799261104767788
+    second: Light theme spritesheet 2_870
+  - first:
+      213: -4409168224159650084
+    second: Light theme spritesheet 2_871
+  - first:
+      213: -1138139662231817719
+    second: Light theme spritesheet 2_872
+  - first:
+      213: 1495775759093915037
+    second: Light theme spritesheet 2_873
+  - first:
+      213: -4070982992434617172
+    second: Light theme spritesheet 2_874
+  - first:
+      213: 4787332650426955282
+    second: Light theme spritesheet 2_875
+  - first:
+      213: 601637536592917200
+    second: Light theme spritesheet 2_876
+  - first:
+      213: 1325094817410378636
+    second: Light theme spritesheet 2_877
+  - first:
+      213: -5586447856334419294
+    second: Light theme spritesheet 2_878
+  - first:
+      213: 2312352611554085740
+    second: Light theme spritesheet 2_879
+  - first:
+      213: -4585468406130765801
+    second: Light theme spritesheet 2_880
+  - first:
+      213: -7503452791813060435
+    second: Light theme spritesheet 2_881
+  - first:
+      213: 3761348849161701911
+    second: Light theme spritesheet 2_882
+  - first:
+      213: -5948495472475324799
+    second: Light theme spritesheet 2_883
+  - first:
+      213: 3091354491922829899
+    second: Light theme spritesheet 2_884
+  - first:
+      213: -9150831595618411578
+    second: Light theme spritesheet 2_885
+  - first:
+      213: -6458316163489537872
+    second: Light theme spritesheet 2_886
+  - first:
+      213: -2228754218270541535
+    second: Light theme spritesheet 2_887
+  - first:
+      213: 5578354165839866259
+    second: Light theme spritesheet 2_888
+  - first:
+      213: -6941000303292566552
+    second: Light theme spritesheet 2_889
+  - first:
+      213: -5818478831693722040
+    second: Light theme spritesheet 2_890
+  - first:
+      213: -4201685760234906632
+    second: Light theme spritesheet 2_891
+  - first:
+      213: -3384291516348467371
+    second: Light theme spritesheet 2_892
+  - first:
+      213: 342300197172238505
+    second: Light theme spritesheet 2_893
+  - first:
+      213: 1364562036081224036
+    second: Light theme spritesheet 2_894
+  - first:
+      213: 4704250732311359408
+    second: Light theme spritesheet 2_895
+  - first:
+      213: 2857888665238397211
+    second: Light theme spritesheet 2_896
+  - first:
+      213: 5393797804508995462
+    second: Light theme spritesheet 2_897
+  - first:
+      213: 4826542958611258327
+    second: Light theme spritesheet 2_898
+  - first:
+      213: -4594194431956854820
+    second: Light theme spritesheet 2_899
+  - first:
+      213: 2272349870629543874
+    second: Light theme spritesheet 2_900
+  - first:
+      213: -3876647508292985475
+    second: Light theme spritesheet 2_901
+  - first:
+      213: -587335061855387176
+    second: Light theme spritesheet 2_902
+  - first:
+      213: -4737287458229018248
+    second: Light theme spritesheet 2_903
+  - first:
+      213: 1866831597531485565
+    second: Light theme spritesheet 2_904
+  - first:
+      213: 1983973331267931885
+    second: Light theme spritesheet 2_905
+  - first:
+      213: -632425924919587688
+    second: Light theme spritesheet 2_906
+  - first:
+      213: 4772048467969097086
+    second: Light theme spritesheet 2_907
+  - first:
+      213: 3535104599592591668
+    second: Light theme spritesheet 2_908
+  - first:
+      213: -8932231973458756468
+    second: Light theme spritesheet 2_909
+  - first:
+      213: -5093766345778070688
+    second: Light theme spritesheet 2_910
+  - first:
+      213: 5992290845257684714
+    second: Light theme spritesheet 2_911
+  - first:
+      213: -8096953968557417523
+    second: Light theme spritesheet 2_912
+  - first:
+      213: -5080358593902444414
+    second: Light theme spritesheet 2_913
+  - first:
+      213: 3185799113954440917
+    second: Light theme spritesheet 2_914
+  - first:
+      213: -3030112750170123249
+    second: Light theme spritesheet 2_915
+  - first:
+      213: 1308057275887026310
+    second: Light theme spritesheet 2_916
+  - first:
+      213: 272955606828916554
+    second: Light theme spritesheet 2_917
+  - first:
+      213: 3663529051828633690
+    second: Light theme spritesheet 2_918
+  - first:
+      213: 6208842294760299750
+    second: Light theme spritesheet 2_919
+  - first:
+      213: -7456499964353246398
+    second: Light theme spritesheet 2_920
+  - first:
+      213: 8054511911541391430
+    second: Light theme spritesheet 2_921
+  - first:
+      213: -4488827807543291604
+    second: Light theme spritesheet 2_922
+  - first:
+      213: 4340403050216865552
+    second: Light theme spritesheet 2_923
+  - first:
+      213: -5696820205325362781
+    second: Light theme spritesheet 2_924
+  - first:
+      213: -6694053002910232258
+    second: Light theme spritesheet 2_925
+  - first:
+      213: 7207734951826907517
+    second: Light theme spritesheet 2_926
+  - first:
+      213: 6894932588810437063
+    second: Light theme spritesheet 2_927
+  - first:
+      213: -6827404197867453262
+    second: Light theme spritesheet 2_928
+  - first:
+      213: -1352048018121063289
+    second: Light theme spritesheet 2_929
+  - first:
+      213: 3219321208179985011
+    second: Light theme spritesheet 2_930
+  - first:
+      213: -1405621635001024380
+    second: Light theme spritesheet 2_931
+  - first:
+      213: -3488726420504049434
+    second: Light theme spritesheet 2_932
+  - first:
+      213: -6378801718084237896
+    second: Light theme spritesheet 2_933
+  - first:
+      213: 1710631354125177105
+    second: Light theme spritesheet 2_934
+  - first:
+      213: -4912520361994356195
+    second: Light theme spritesheet 2_935
+  - first:
+      213: -4302754902829195287
+    second: Light theme spritesheet 2_936
+  - first:
+      213: -4355144327286334842
+    second: Light theme spritesheet 2_937
+  - first:
+      213: 1872677946556236645
+    second: Light theme spritesheet 2_938
+  - first:
+      213: -8465872051709086370
+    second: Light theme spritesheet 2_939
+  - first:
+      213: 9163084042275077635
+    second: Light theme spritesheet 2_940
+  - first:
+      213: 9105049839715781819
+    second: Light theme spritesheet 2_941
+  - first:
+      213: -4424858783174426902
+    second: Light theme spritesheet 2_942
+  - first:
+      213: 6811973017582724330
+    second: Light theme spritesheet 2_943
+  - first:
+      213: 1524807828908270324
+    second: Light theme spritesheet 2_944
+  - first:
+      213: 3411227817296918321
+    second: Light theme spritesheet 2_945
+  - first:
+      213: -2049731104275077224
+    second: Light theme spritesheet 2_946
+  - first:
+      213: 570405927014869437
+    second: Light theme spritesheet 2_947
+  - first:
+      213: -9147916317087877465
+    second: Light theme spritesheet 2_948
+  - first:
+      213: -6727142025728325635
+    second: Light theme spritesheet 2_949
+  - first:
+      213: 3551799335377658644
+    second: Light theme spritesheet 2_950
+  - first:
+      213: -1322009083239941140
+    second: Light theme spritesheet 2_951
+  - first:
+      213: -3896423530625512997
+    second: Light theme spritesheet 2_952
+  - first:
+      213: 7546094719277373588
+    second: Light theme spritesheet 2_953
+  - first:
+      213: -7635393392496332008
+    second: Light theme spritesheet 2_954
+  - first:
+      213: -4227115908614389206
+    second: Light theme spritesheet 2_955
+  - first:
+      213: -2875368270481431560
+    second: Light theme spritesheet 2_956
+  - first:
+      213: -3688530732577035349
+    second: Light theme spritesheet 2_957
+  - first:
+      213: 6328266924383749178
+    second: Light theme spritesheet 2_958
+  - first:
+      213: 7149473159438865530
+    second: Light theme spritesheet 2_959
+  - first:
+      213: 253682764852065770
+    second: Light theme spritesheet 2_960
+  - first:
+      213: 6756199555038393869
+    second: Light theme spritesheet 2_961
+  - first:
+      213: 7127089582300959297
+    second: Light theme spritesheet 2_962
+  - first:
+      213: -7938424401112971094
+    second: Light theme spritesheet 2_963
+  - first:
+      213: -4202519377335320729
+    second: Light theme spritesheet 2_964
+  - first:
+      213: -8380164591463447810
+    second: Light theme spritesheet 2_965
+  - first:
+      213: 5157404334043714755
+    second: Light theme spritesheet 2_966
+  - first:
+      213: -6359836782368794107
+    second: Light theme spritesheet 2_967
+  - first:
+      213: 2880592821821437736
+    second: Light theme spritesheet 2_968
+  - first:
+      213: -1776920166529707075
+    second: Light theme spritesheet 2_969
+  - first:
+      213: 2138490811925497746
+    second: Light theme spritesheet 2_970
+  - first:
+      213: 5768645956306505875
+    second: Light theme spritesheet 2_971
+  - first:
+      213: 8798808900668458047
+    second: Light theme spritesheet 2_972
+  - first:
+      213: 5369659363954781433
+    second: Light theme spritesheet 2_973
+  - first:
+      213: 8290449081530307500
+    second: Light theme spritesheet 2_974
+  - first:
+      213: 2027483710335513636
+    second: Light theme spritesheet 2_975
+  - first:
+      213: -7576395515466698137
+    second: Light theme spritesheet 2_976
+  - first:
+      213: -5243880437825510634
+    second: Light theme spritesheet 2_977
+  - first:
+      213: 693019539709530283
+    second: Light theme spritesheet 2_978
+  - first:
+      213: 3476597190158748840
+    second: Light theme spritesheet 2_979
+  - first:
+      213: -4831341757072009926
+    second: Light theme spritesheet 2_980
+  - first:
+      213: -928125766082979734
+    second: Light theme spritesheet 2_981
+  - first:
+      213: -967250264763449898
+    second: Light theme spritesheet 2_982
+  - first:
+      213: -5442577417004068646
+    second: Light theme spritesheet 2_983
+  - first:
+      213: -2838490000474396378
+    second: Light theme spritesheet 2_984
+  - first:
+      213: 8276226103362303537
+    second: Light theme spritesheet 2_985
+  - first:
+      213: -4018894297490193547
+    second: Light theme spritesheet 2_986
+  - first:
+      213: -441012190707060448
+    second: Light theme spritesheet 2_987
+  - first:
+      213: -5213176839498678644
+    second: Light theme spritesheet 2_988
+  - first:
+      213: 2573032391058597528
+    second: Light theme spritesheet 2_989
+  - first:
+      213: 9184914735223001639
+    second: Light theme spritesheet 2_990
+  - first:
+      213: -6758898949636020124
+    second: Light theme spritesheet 2_991
+  - first:
+      213: -7267893103913073838
+    second: Light theme spritesheet 2_992
+  - first:
+      213: -9184362295257384112
+    second: Light theme spritesheet 2_993
+  - first:
+      213: -5577710630390198631
+    second: Light theme spritesheet 2_994
+  - first:
+      213: 8717952349704744149
+    second: Light theme spritesheet 2_995
+  - first:
+      213: -6970980124057547702
+    second: Light theme spritesheet 2_996
+  - first:
+      213: 8674947999703002956
+    second: Light theme spritesheet 2_997
+  - first:
+      213: 2387504905216560771
+    second: Light theme spritesheet 2_998
+  - first:
+      213: 2000283333520920251
+    second: Light theme spritesheet 2_999
+  - first:
+      213: 2573858935537183902
+    second: Light theme spritesheet 2_1000
+  - first:
+      213: -8464986640217692751
+    second: Light theme spritesheet 2_1001
+  - first:
+      213: 6415416639105784205
+    second: Light theme spritesheet 2_1002
+  - first:
+      213: 621841801534524609
+    second: Light theme spritesheet 2_1003
+  - first:
+      213: -5373260540087066451
+    second: Light theme spritesheet 2_1004
+  - first:
+      213: -6800412043452850540
+    second: Light theme spritesheet 2_1005
+  - first:
+      213: 8910251442296538853
+    second: Light theme spritesheet 2_1006
+  - first:
+      213: -7586791721162853122
+    second: Light theme spritesheet 2_1007
+  - first:
+      213: -7948953075879612126
+    second: Light theme spritesheet 2_1008
+  - first:
+      213: -7736247698555692487
+    second: Light theme spritesheet 2_1009
+  - first:
+      213: 1520406050226962878
+    second: Light theme spritesheet 2_1010
+  - first:
+      213: -3212485262162970165
+    second: Light theme spritesheet 2_1011
+  - first:
+      213: -486444248546418567
+    second: Light theme spritesheet 2_1012
+  - first:
+      213: 989275262035946510
+    second: Light theme spritesheet 2_1013
+  - first:
+      213: 2923462637084802658
+    second: Light theme spritesheet 2_1014
+  - first:
+      213: 1114346462897529459
+    second: Light theme spritesheet 2_1015
+  - first:
+      213: -3254138026887193506
+    second: Light theme spritesheet 2_1016
+  - first:
+      213: 6197320648113588661
+    second: Light theme spritesheet 2_1017
+  - first:
+      213: -3810719048861282927
+    second: Light theme spritesheet 2_1018
+  - first:
+      213: -5768692007895301672
+    second: Light theme spritesheet 2_1019
+  - first:
+      213: -3693503966368848065
+    second: Light theme spritesheet 2_1020
+  - first:
+      213: -7263321345620763219
+    second: Light theme spritesheet 2_1021
+  - first:
+      213: -9174063573915402134
+    second: Light theme spritesheet 2_1022
+  - first:
+      213: 7869467176743095332
+    second: Light theme spritesheet 2_1023
+  - first:
+      213: 6357620906404624458
+    second: Light theme spritesheet 2_1024
+  - first:
+      213: 5378555562686858939
+    second: Light theme spritesheet 2_1025
+  - first:
+      213: -8050332228340274026
+    second: Light theme spritesheet 2_1026
+  - first:
+      213: -6141334836711794642
+    second: Light theme spritesheet 2_1027
+  - first:
+      213: -6825915736941105980
+    second: Light theme spritesheet 2_1028
+  - first:
+      213: 7856279649806111592
+    second: Light theme spritesheet 2_1029
+  - first:
+      213: 1328852614808098947
+    second: Light theme spritesheet 2_1030
+  - first:
+      213: -8538247476990990383
+    second: Light theme spritesheet 2_1031
+  - first:
+      213: -8949116718486093876
+    second: Light theme spritesheet 2_1032
+  - first:
+      213: 7779315708122741493
+    second: Light theme spritesheet 2_1033
+  - first:
+      213: 7255583942703785762
+    second: Light theme spritesheet 2_1034
+  - first:
+      213: 2605707916982876656
+    second: Light theme spritesheet 2_1035
+  - first:
+      213: -4535443294110288562
+    second: Light theme spritesheet 2_1036
+  - first:
+      213: 7932904067478400435
+    second: Light theme spritesheet 2_1037
+  - first:
+      213: 1163165558418559960
+    second: Light theme spritesheet 2_1038
+  - first:
+      213: 7193849751528875042
+    second: Light theme spritesheet 2_1039
+  - first:
+      213: -4311662660085673861
+    second: Light theme spritesheet 2_1040
+  - first:
+      213: 3064970574189582002
+    second: Light theme spritesheet 2_1041
+  - first:
+      213: 5208509580610251794
+    second: Light theme spritesheet 2_1042
+  - first:
+      213: -3948467125684977875
+    second: Light theme spritesheet 2_1043
+  - first:
+      213: 3991718409599083256
+    second: Light theme spritesheet 2_1044
+  - first:
+      213: 2311085435180116777
+    second: Light theme spritesheet 2_1045
+  - first:
+      213: 3933797919202802123
+    second: Light theme spritesheet 2_1046
+  - first:
+      213: -5417827745230372228
+    second: Light theme spritesheet 2_1047
+  - first:
+      213: 4921883173160465817
+    second: Light theme spritesheet 2_1048
+  - first:
+      213: 2891989011749022694
+    second: Light theme spritesheet 2_1049
+  - first:
+      213: -4957896268517112429
+    second: Light theme spritesheet 2_1050
+  - first:
+      213: -1973789801076373924
+    second: Light theme spritesheet 2_1051
+  - first:
+      213: -8921379216633456415
+    second: Light theme spritesheet 2_1052
+  - first:
+      213: -5583114774723833180
+    second: Light theme spritesheet 2_1053
+  - first:
+      213: 6063008883699716316
+    second: Light theme spritesheet 2_1054
+  - first:
+      213: 5831567141441837586
+    second: Light theme spritesheet 2_1055
+  - first:
+      213: -7832872879201091470
+    second: Light theme spritesheet 2_1056
+  - first:
+      213: 5072144349979628973
+    second: Light theme spritesheet 2_1057
+  - first:
+      213: -7290107481156338946
+    second: Light theme spritesheet 2_1058
+  - first:
+      213: -2811781843932440077
+    second: Light theme spritesheet 2_1059
+  - first:
+      213: 8865532977207423816
+    second: Light theme spritesheet 2_1060
+  - first:
+      213: -3788411079990663114
+    second: Light theme spritesheet 2_1061
+  - first:
+      213: 8412087304006299127
+    second: Light theme spritesheet 2_1062
+  - first:
+      213: -47394929714473498
+    second: Light theme spritesheet 2_1063
+  - first:
+      213: 3734243896541399516
+    second: Light theme spritesheet 2_1064
+  - first:
+      213: -2101132292777129299
+    second: Light theme spritesheet 2_1065
+  - first:
+      213: 6079477430551640800
+    second: Light theme spritesheet 2_1066
+  - first:
+      213: 5808334761502368652
+    second: Light theme spritesheet 2_1067
+  - first:
+      213: 8392186603625984930
+    second: Light theme spritesheet 2_1068
+  - first:
+      213: 7029492679129712718
+    second: Light theme spritesheet 2_1069
+  - first:
+      213: -6664272516792534353
+    second: Light theme spritesheet 2_1070
+  - first:
+      213: 4495417563429954919
+    second: Light theme spritesheet 2_1071
+  - first:
+      213: 3272135790459480766
+    second: Light theme spritesheet 2_1072
+  - first:
+      213: 2955020153479442628
+    second: Light theme spritesheet 2_1073
+  - first:
+      213: 8960452652096108000
+    second: Light theme spritesheet 2_1074
+  - first:
+      213: -153639946042470033
+    second: Light theme spritesheet 2_1075
+  - first:
+      213: 7474675030821810590
+    second: Light theme spritesheet 2_1076
+  - first:
+      213: 7336121647491054525
+    second: Light theme spritesheet 2_1077
+  - first:
+      213: 3314689020857331936
+    second: Light theme spritesheet 2_1078
+  - first:
+      213: -7310186287415064889
+    second: Light theme spritesheet 2_1079
+  - first:
+      213: -1082268809348815825
+    second: Light theme spritesheet 2_1080
+  - first:
+      213: -7477063372237354208
+    second: Light theme spritesheet 2_1081
+  - first:
+      213: -2311827019209713170
+    second: Light theme spritesheet 2_1082
+  - first:
+      213: -4411458898405494213
+    second: Light theme spritesheet 2_1083
+  - first:
+      213: 6840464381580214885
+    second: Light theme spritesheet 2_1084
+  - first:
+      213: -6428435639444860865
+    second: Light theme spritesheet 2_1085
+  - first:
+      213: 3978204388154609350
+    second: Light theme spritesheet 2_1086
+  - first:
+      213: -970424144514244414
+    second: Light theme spritesheet 2_1087
+  - first:
+      213: -3943844142922241124
+    second: Light theme spritesheet 2_1088
+  - first:
+      213: -7536634322691692557
+    second: Light theme spritesheet 2_1089
+  - first:
+      213: -1496013208242923549
+    second: Light theme spritesheet 2_1090
+  - first:
+      213: -4454306406384327319
+    second: Light theme spritesheet 2_1091
+  - first:
+      213: -518419804866630662
+    second: Light theme spritesheet 2_1092
+  - first:
+      213: -3706546223827643544
+    second: Light theme spritesheet 2_1093
+  - first:
+      213: -8233915942215221466
+    second: Light theme spritesheet 2_1094
+  - first:
+      213: 6333767633795306363
+    second: Light theme spritesheet 2_1095
+  - first:
+      213: -3176379646093073922
+    second: Light theme spritesheet 2_1096
+  - first:
+      213: 929400483265667352
+    second: Light theme spritesheet 2_1097
+  - first:
+      213: 6955475290574745241
+    second: Light theme spritesheet 2_1098
+  - first:
+      213: -5964264130555160590
+    second: Light theme spritesheet 2_1099
+  - first:
+      213: -7167236697087893008
+    second: Light theme spritesheet 2_1100
+  - first:
+      213: 847843386216387873
+    second: Light theme spritesheet 2_1101
+  - first:
+      213: 272322812595559691
+    second: Light theme spritesheet 2_1102
+  - first:
+      213: 2330978938299011829
+    second: Light theme spritesheet 2_1103
+  - first:
+      213: -8982342188669958343
+    second: Light theme spritesheet 2_1104
+  - first:
+      213: 4991681765398202675
+    second: Light theme spritesheet 2_1105
+  - first:
+      213: -6185136245346756721
+    second: Light theme spritesheet 2_1106
+  - first:
+      213: -6010700032712122905
+    second: Light theme spritesheet 2_1107
+  - first:
+      213: 1261195968894873282
+    second: Light theme spritesheet 2_1108
+  - first:
+      213: -5760746904062996253
+    second: Light theme spritesheet 2_1109
+  - first:
+      213: -7976016198983024066
+    second: Light theme spritesheet 2_1110
+  - first:
+      213: 3727558016876635826
+    second: Light theme spritesheet 2_1111
+  - first:
+      213: 8262168570273411547
+    second: Light theme spritesheet 2_1112
+  - first:
+      213: -2507861230891442551
+    second: Light theme spritesheet 2_1113
+  - first:
+      213: 2413960694021942047
+    second: Light theme spritesheet 2_1114
+  - first:
+      213: 8564329948432737139
+    second: Light theme spritesheet 2_1115
+  - first:
+      213: -1234596794391252029
+    second: Light theme spritesheet 2_1116
+  - first:
+      213: -8565145034503465676
+    second: Light theme spritesheet 2_1117
+  - first:
+      213: 1364876617113916430
+    second: Light theme spritesheet 2_1118
+  - first:
+      213: -3828422456817630729
+    second: Light theme spritesheet 2_1119
+  - first:
+      213: 8910409292585792326
+    second: Light theme spritesheet 2_1120
+  - first:
+      213: -1155577214275821259
+    second: Light theme spritesheet 2_1121
+  - first:
+      213: 7642433081084179389
+    second: Light theme spritesheet 2_1122
+  - first:
+      213: 7186065756195736538
+    second: Light theme spritesheet 2_1123
+  - first:
+      213: -368029606876678460
+    second: Light theme spritesheet 2_1124
+  - first:
+      213: -7861293073523979116
+    second: Light theme spritesheet 2_1125
+  - first:
+      213: -9068858320248405532
+    second: Light theme spritesheet 2_1126
+  - first:
+      213: 1020930326169428643
+    second: Light theme spritesheet 2_1127
+  - first:
+      213: 2940442119206783462
+    second: Light theme spritesheet 2_1128
+  - first:
+      213: 8983711165552303642
+    second: Light theme spritesheet 2_1129
+  - first:
+      213: 87569045072541002
+    second: Light theme spritesheet 2_1130
+  - first:
+      213: 3406889643527539748
+    second: Light theme spritesheet 2_1131
+  - first:
+      213: -4076975724031484549
+    second: Light theme spritesheet 2_1132
+  - first:
+      213: -3717114511832195058
+    second: Light theme spritesheet 2_1133
+  - first:
+      213: 5307439948035275333
+    second: Light theme spritesheet 2_1134
+  - first:
+      213: -81519539667709605
+    second: Light theme spritesheet 2_1135
+  - first:
+      213: 7794280125565810150
+    second: Light theme spritesheet 2_1136
+  - first:
+      213: -8612795619175439362
+    second: Light theme spritesheet 2_1137
+  - first:
+      213: 1733005339475370661
+    second: Light theme spritesheet 2_1138
+  - first:
+      213: -5871068227148437992
+    second: Light theme spritesheet 2_1139
+  - first:
+      213: 4752381901406304395
+    second: Light theme spritesheet 2_1140
+  - first:
+      213: -7892331368380875733
+    second: Light theme spritesheet 2_1141
+  - first:
+      213: 8259666152812824409
+    second: Light theme spritesheet 2_1142
+  - first:
+      213: 1942406316744205111
+    second: Light theme spritesheet 2_1143
+  - first:
+      213: -7575355708029137677
+    second: Light theme spritesheet 2_1144
+  - first:
+      213: -4442390839881020934
+    second: Light theme spritesheet 2_1145
+  - first:
+      213: 280226697602776437
+    second: Light theme spritesheet 2_1146
+  - first:
+      213: -4995831731206877472
+    second: Light theme spritesheet 2_1147
+  - first:
+      213: 2362493343677469247
+    second: Light theme spritesheet 2_1148
+  - first:
+      213: 872956684463514
+    second: Light theme spritesheet 2_1149
+  - first:
+      213: 379622129670238762
+    second: Light theme spritesheet 2_1150
+  - first:
+      213: -2827405829183915177
+    second: Light theme spritesheet 2_1151
+  - first:
+      213: -1728152963688892639
+    second: Light theme spritesheet 2_1152
+  - first:
+      213: 7098984024129069742
+    second: Light theme spritesheet 2_1153
+  - first:
+      213: 6154420380074584744
+    second: Light theme spritesheet 2_1154
+  - first:
+      213: 3516214405278676789
+    second: Light theme spritesheet 2_1155
+  - first:
+      213: -8594810365788980736
+    second: Light theme spritesheet 2_1156
+  - first:
+      213: -4063802288945052597
+    second: Light theme spritesheet 2_1157
+  - first:
+      213: -3976106825024877906
+    second: Light theme spritesheet 2_1158
+  - first:
+      213: 3881776838924127009
+    second: Light theme spritesheet 2_1159
+  - first:
+      213: 9170855773614666927
+    second: Light theme spritesheet 2_1160
+  - first:
+      213: -7445109650646970892
+    second: Light theme spritesheet 2_1161
+  - first:
+      213: 2063724150278634575
+    second: Light theme spritesheet 2_1162
+  - first:
+      213: -7295757591154486249
+    second: Light theme spritesheet 2_1163
+  - first:
+      213: 5815418938967990691
+    second: Light theme spritesheet 2_1164
+  - first:
+      213: 2061876397457254234
+    second: Light theme spritesheet 2_1165
+  - first:
+      213: -4072512476019193704
+    second: Light theme spritesheet 2_1166
+  - first:
+      213: 3052246839482378342
+    second: Light theme spritesheet 2_1167
+  - first:
+      213: 799064635846115821
+    second: Light theme spritesheet 2_1168
+  - first:
+      213: 170523630072238828
+    second: Light theme spritesheet 2_1169
+  - first:
+      213: 3305269995213260912
+    second: Light theme spritesheet 2_1170
+  - first:
+      213: 2698706105633884926
+    second: Light theme spritesheet 2_1171
+  - first:
+      213: 8681550332834210239
+    second: Light theme spritesheet 2_1172
+  - first:
+      213: -4141415993717728645
+    second: Light theme spritesheet 2_1173
+  - first:
+      213: 6782466125357124640
+    second: Light theme spritesheet 2_1174
+  - first:
+      213: -5736323821916032493
+    second: Light theme spritesheet 2_1175
+  - first:
+      213: 140604662631111917
+    second: Light theme spritesheet 2_1176
+  - first:
+      213: 57183201575558666
+    second: Light theme spritesheet 2_1177
+  - first:
+      213: 5337000480455081346
+    second: Light theme spritesheet 2_1178
+  - first:
+      213: -3824425519533611155
+    second: Light theme spritesheet 2_1179
+  - first:
+      213: 8794777378800702481
+    second: Light theme spritesheet 2_1180
+  - first:
+      213: 2952723199009252909
+    second: Light theme spritesheet 2_1181
+  - first:
+      213: -5648277084567562304
+    second: Light theme spritesheet 2_1182
+  - first:
+      213: 4085692038742443726
+    second: Light theme spritesheet 2_1183
+  - first:
+      213: -2548403939136632750
+    second: Light theme spritesheet 2_1184
+  - first:
+      213: 5157473851120594801
+    second: Light theme spritesheet 2_1185
+  - first:
+      213: 8408917958056648646
+    second: Light theme spritesheet 2_1186
+  - first:
+      213: 7213426985039579352
+    second: Light theme spritesheet 2_1187
+  - first:
+      213: -6720345686919295090
+    second: Light theme spritesheet 2_1188
+  - first:
+      213: 6090898236167324760
+    second: Light theme spritesheet 2_1189
+  - first:
+      213: -4784235962230021451
+    second: Light theme spritesheet 2_1190
+  - first:
+      213: -774658646614664241
+    second: Light theme spritesheet 2_1191
+  - first:
+      213: -2212180073044599286
+    second: Light theme spritesheet 2_1192
+  - first:
+      213: 5807797960647888414
+    second: Light theme spritesheet 2_1193
+  - first:
+      213: 4171694742466869578
+    second: Light theme spritesheet 2_1194
+  - first:
+      213: -4023302125673106093
+    second: Light theme spritesheet 2_1195
+  - first:
+      213: 4893878568251276277
+    second: Light theme spritesheet 2_1196
+  - first:
+      213: -6670938277350488585
+    second: Light theme spritesheet 2_1197
+  - first:
+      213: -5668856372032576535
+    second: Light theme spritesheet 2_1198
+  - first:
+      213: -372275893575949820
+    second: Light theme spritesheet 2_1199
+  - first:
+      213: 7345169963867759130
+    second: Light theme spritesheet 2_1200
+  - first:
+      213: 409636073225467248
+    second: Light theme spritesheet 2_1201
+  - first:
+      213: -4609617322201118438
+    second: Light theme spritesheet 2_1202
+  - first:
+      213: 5360705706953449240
+    second: Light theme spritesheet 2_1203
+  - first:
+      213: 6768308393578262480
+    second: Light theme spritesheet 2_1204
+  - first:
+      213: -8948234020739445773
+    second: Light theme spritesheet 2_1205
+  - first:
+      213: 3973719751090263835
+    second: Light theme spritesheet 2_1206
+  - first:
+      213: -6196852122705387111
+    second: Light theme spritesheet 2_1207
+  - first:
+      213: 5588536822822548133
+    second: Light theme spritesheet 2_1208
+  - first:
+      213: 4610486992450150721
+    second: Light theme spritesheet 2_1209
+  - first:
+      213: 2347131771986058505
+    second: Light theme spritesheet 2_1210
+  - first:
+      213: -6499000433594118363
+    second: Light theme spritesheet 2_1211
+  - first:
+      213: -8429495567958116830
+    second: Light theme spritesheet 2_1212
+  - first:
+      213: -3437844447334365565
+    second: Light theme spritesheet 2_1213
+  - first:
+      213: -2774214533792593418
+    second: Light theme spritesheet 2_1214
+  - first:
+      213: 7935841240251179727
+    second: Light theme spritesheet 2_1215
+  - first:
+      213: 6815226903988757327
+    second: Light theme spritesheet 2_1216
+  - first:
+      213: 5074067299897286249
+    second: Light theme spritesheet 2_1217
+  - first:
+      213: -8927566113180982345
+    second: Light theme spritesheet 2_1218
+  - first:
+      213: 7656557323010259640
+    second: Light theme spritesheet 2_1219
+  - first:
+      213: 3401743144296913735
+    second: Light theme spritesheet 2_1220
+  - first:
+      213: 2977842254048411902
+    second: Light theme spritesheet 2_1221
+  - first:
+      213: 8989177872820205937
+    second: Light theme spritesheet 2_1222
+  - first:
+      213: -1476730238623274515
+    second: Light theme spritesheet 2_1223
+  - first:
+      213: -5665847102340817630
+    second: Light theme spritesheet 2_1224
+  - first:
+      213: 1876160892490704475
+    second: Light theme spritesheet 2_1225
+  - first:
+      213: 881452946398438690
+    second: Light theme spritesheet 2_1226
+  - first:
+      213: -6435212694870798163
+    second: Light theme spritesheet 2_1227
+  - first:
+      213: -1386915827729314466
+    second: Light theme spritesheet 2_1228
+  - first:
+      213: 5710913461581241274
+    second: Light theme spritesheet 2_1229
+  - first:
+      213: -475483580678293727
+    second: Light theme spritesheet 2_1230
+  - first:
+      213: 484198117277098847
+    second: Light theme spritesheet 2_1231
+  - first:
+      213: -7856853268743820317
+    second: Light theme spritesheet 2_1232
+  - first:
+      213: -4502160190432656937
+    second: Light theme spritesheet 2_1233
+  - first:
+      213: 8794568918648032323
+    second: Light theme spritesheet 2_1234
+  - first:
+      213: -5088203681285898090
+    second: Light theme spritesheet 2_1235
+  - first:
+      213: -2497946492684128938
+    second: Light theme spritesheet 2_1236
+  - first:
+      213: -3591431076083855135
+    second: Light theme spritesheet 2_1237
+  - first:
+      213: -1523636379993379098
+    second: Light theme spritesheet 2_1238
+  - first:
+      213: -469027012784470885
+    second: Light theme spritesheet 2_1239
+  - first:
+      213: 79770461455106742
+    second: Light theme spritesheet 2_1240
+  - first:
+      213: 4468327816223789018
+    second: Light theme spritesheet 2_1241
+  - first:
+      213: -8268632053605404665
+    second: Light theme spritesheet 2_1242
+  - first:
+      213: 8340902528495748833
+    second: Light theme spritesheet 2_1243
+  - first:
+      213: 470975242357630084
+    second: Light theme spritesheet 2_1244
+  - first:
+      213: 4991184921359789753
+    second: Light theme spritesheet 2_1245
+  - first:
+      213: 2171362527801086505
+    second: Light theme spritesheet 2_1246
+  - first:
+      213: 1874531817033809810
+    second: Light theme spritesheet 2_1247
+  - first:
+      213: 5547174475862112266
+    second: Light theme spritesheet 2_1248
+  - first:
+      213: 4210442679172939677
+    second: Light theme spritesheet 2_1249
+  - first:
+      213: -214469724617551610
+    second: Light theme spritesheet 2_1250
+  - first:
+      213: 5375834351136403251
+    second: Light theme spritesheet 2_1251
+  - first:
+      213: 4775972775828959060
+    second: Light theme spritesheet 2_1252
+  - first:
+      213: -6954317040189511287
+    second: Light theme spritesheet 2_1253
+  - first:
+      213: -6807003453675337604
+    second: Light theme spritesheet 2_1254
+  - first:
+      213: -3886206194130560897
+    second: Light theme spritesheet 2_1255
+  - first:
+      213: -3557204017877128213
+    second: Light theme spritesheet 2_1256
+  - first:
+      213: 4220088739417465656
+    second: Light theme spritesheet 2_1257
+  - first:
+      213: 6343627249898688669
+    second: Light theme spritesheet 2_1258
+  - first:
+      213: 1613130401223868991
+    second: Light theme spritesheet 2_1259
+  - first:
+      213: 60370919885117394
+    second: Light theme spritesheet 2_1260
+  - first:
+      213: -8599643129830573471
+    second: Light theme spritesheet 2_1261
+  - first:
+      213: -8458502902541437385
+    second: Light theme spritesheet 2_1262
+  - first:
+      213: 8632843095886195359
+    second: Light theme spritesheet 2_1263
+  - first:
+      213: 8052085754457753875
+    second: Light theme spritesheet 2_1264
+  - first:
+      213: -3502182300131939543
+    second: Light theme spritesheet 2_1265
+  - first:
+      213: -2136550395017773818
+    second: Light theme spritesheet 2_1266
+  - first:
+      213: -5344626569797240466
+    second: Light theme spritesheet 2_1267
+  - first:
+      213: 8838447803279403292
+    second: Light theme spritesheet 2_1268
+  - first:
+      213: -4912135248697410786
+    second: Light theme spritesheet 2_1269
+  - first:
+      213: 3719837261547832843
+    second: Light theme spritesheet 2_1270
+  - first:
+      213: -113426339366682332
+    second: Light theme spritesheet 2_1271
+  - first:
+      213: -5375151921530948339
+    second: Light theme spritesheet 2_1272
+  - first:
+      213: 2371994684784446695
+    second: Light theme spritesheet 2_1273
+  - first:
+      213: -8151332050870973810
+    second: Light theme spritesheet 2_1274
+  - first:
+      213: -5202261186996739024
+    second: Light theme spritesheet 2_1275
+  - first:
+      213: -3405472257294536055
+    second: Light theme spritesheet 2_1276
+  - first:
+      213: 238886390577818377
+    second: Light theme spritesheet 2_1277
+  - first:
+      213: 8232516539648969801
+    second: Light theme spritesheet 2_1278
+  - first:
+      213: -1463726095900358896
+    second: Light theme spritesheet 2_1279
+  - first:
+      213: -6685449391977618159
+    second: Light theme spritesheet 2_1280
+  - first:
+      213: 3482110355762512968
+    second: Light theme spritesheet 2_1281
+  - first:
+      213: 8231123436725103753
+    second: Light theme spritesheet 2_1282
+  - first:
+      213: 2619421629437154324
+    second: Light theme spritesheet 2_1283
+  - first:
+      213: 6846273817140216976
+    second: Light theme spritesheet 2_1284
+  - first:
+      213: -7237720658064536723
+    second: Light theme spritesheet 2_1285
+  - first:
+      213: -8600778776875194485
+    second: Light theme spritesheet 2_1286
+  - first:
+      213: 3051808484951567756
+    second: Light theme spritesheet 2_1287
+  - first:
+      213: 3768595092400075848
+    second: Light theme spritesheet 2_1288
+  - first:
+      213: 4395955483958942701
+    second: Light theme spritesheet 2_1289
+  - first:
+      213: 7661710860582638400
+    second: Light theme spritesheet 2_1290
+  - first:
+      213: -5647780725653904994
+    second: Light theme spritesheet 2_1291
+  - first:
+      213: 8908806100068090330
+    second: Light theme spritesheet 2_1292
+  - first:
+      213: 1324925634029639091
+    second: Light theme spritesheet 2_1293
+  - first:
+      213: -7704615938883445795
+    second: Light theme spritesheet 2_1294
+  - first:
+      213: 3676799108169371451
+    second: Light theme spritesheet 2_1295
+  - first:
+      213: -8224250219558949330
+    second: Light theme spritesheet 2_1296
+  - first:
+      213: 4202023292833157023
+    second: Light theme spritesheet 2_1297
+  - first:
+      213: -8793362080814463451
+    second: Light theme spritesheet 2_1298
+  - first:
+      213: -5854214474915808387
+    second: Light theme spritesheet 2_1299
+  - first:
+      213: 3081421786522399695
+    second: Light theme spritesheet 2_1300
+  - first:
+      213: -8741648118208673080
+    second: Light theme spritesheet 2_1301
+  - first:
+      213: 628731904381441050
+    second: Light theme spritesheet 2_1302
+  - first:
+      213: -6229481704241691508
+    second: Light theme spritesheet 2_1303
+  - first:
+      213: -7426517171013965139
+    second: Light theme spritesheet 2_1304
+  - first:
+      213: -5418804077504952074
+    second: Light theme spritesheet 2_1305
+  - first:
+      213: 4938606887177479443
+    second: Light theme spritesheet 2_1306
+  - first:
+      213: -1283997254318236823
+    second: Light theme spritesheet 2_1307
+  - first:
+      213: 252339612172813167
+    second: Light theme spritesheet 2_1308
+  - first:
+      213: -4191579285283269767
+    second: Light theme spritesheet 2_1309
+  - first:
+      213: 6263691809396089237
+    second: Light theme spritesheet 2_1310
+  - first:
+      213: 4178040773908930126
+    second: Light theme spritesheet 2_1311
+  - first:
+      213: -2484232334708903301
+    second: Light theme spritesheet 2_1312
+  - first:
+      213: -6075957862245021885
+    second: Light theme spritesheet 2_1313
+  - first:
+      213: 2650755062770798878
+    second: Light theme spritesheet 2_1314
+  - first:
+      213: 5728036088096773302
+    second: Light theme spritesheet 2_1315
+  - first:
+      213: 3081740098749425781
+    second: Light theme spritesheet 2_1316
+  - first:
+      213: -7744310171650442313
+    second: Light theme spritesheet 2_1317
+  - first:
+      213: 40564411173779447
+    second: Light theme spritesheet 2_1318
+  - first:
+      213: 4188284455861138299
+    second: Light theme spritesheet 2_1319
+  - first:
+      213: -2697899959787979988
+    second: Light theme spritesheet 2_1320
+  - first:
+      213: 4569002610700039668
+    second: Light theme spritesheet 2_1321
+  - first:
+      213: -1845779688374197626
+    second: Light theme spritesheet 2_1322
+  - first:
+      213: 4814630986103157127
+    second: Light theme spritesheet 2_1323
+  - first:
+      213: -3656311476473883715
+    second: Light theme spritesheet 2_1324
+  - first:
+      213: 1362427937295581325
+    second: Light theme spritesheet 2_1325
+  - first:
+      213: 2427624977754667831
+    second: Light theme spritesheet 2_1326
+  - first:
+      213: -5549929329038816561
+    second: Light theme spritesheet 2_1327
+  - first:
+      213: -3855745273314286862
+    second: Light theme spritesheet 2_1328
+  - first:
+      213: -4169632387373788253
+    second: Light theme spritesheet 2_1329
+  - first:
+      213: -49060059261646675
+    second: Light theme spritesheet 2_1330
+  - first:
+      213: -7704818536326559105
+    second: Light theme spritesheet 2_1331
+  - first:
+      213: 504393586230804124
+    second: Light theme spritesheet 2_1332
+  - first:
+      213: -8496213558247883986
+    second: Light theme spritesheet 2_1333
+  - first:
+      213: -7828605672535733667
+    second: Light theme spritesheet 2_1334
+  - first:
+      213: -6651346575078184874
+    second: Light theme spritesheet 2_1335
+  - first:
+      213: -1926084848386821157
+    second: Light theme spritesheet 2_1336
+  - first:
+      213: 492899198658688313
+    second: Light theme spritesheet 2_1337
+  - first:
+      213: 9033397484299093468
+    second: Light theme spritesheet 2_1338
+  - first:
+      213: -6116927080118700407
+    second: Light theme spritesheet 2_1339
+  - first:
+      213: 7032397781049168514
+    second: Light theme spritesheet 2_1340
+  - first:
+      213: 5465429831277495799
+    second: Light theme spritesheet 2_1341
+  - first:
+      213: 3807134603981308362
+    second: Light theme spritesheet 2_1342
+  - first:
+      213: 5048795912828136801
+    second: Light theme spritesheet 2_1343
+  - first:
+      213: -5170559551555628583
+    second: Light theme spritesheet 2_1344
+  - first:
+      213: 8883997287943392947
+    second: Light theme spritesheet 2_1345
+  - first:
+      213: -3331542593373716496
+    second: Light theme spritesheet 2_1346
+  - first:
+      213: -5199446364796652718
+    second: Light theme spritesheet 2_1347
+  - first:
+      213: 3459147309587777723
+    second: Light theme spritesheet 2_1348
+  - first:
+      213: -3631303312918671396
+    second: Light theme spritesheet 2_1349
+  - first:
+      213: 3523620058679193650
+    second: Light theme spritesheet 2_1350
+  - first:
+      213: 7083863438513034514
+    second: Light theme spritesheet 2_1351
+  - first:
+      213: 373321966795089986
+    second: Light theme spritesheet 2_1352
+  - first:
+      213: 194017854322856988
+    second: Light theme spritesheet 2_1353
+  - first:
+      213: -1590738630521568782
+    second: Light theme spritesheet 2_1354
+  - first:
+      213: 6698126395133884476
+    second: Light theme spritesheet 2_1355
+  - first:
+      213: 5112258475016804480
+    second: Light theme spritesheet 2_1356
+  - first:
+      213: -2817533078603782251
+    second: Light theme spritesheet 2_1357
+  - first:
+      213: -2939467673263943352
+    second: Light theme spritesheet 2_1358
+  - first:
+      213: -8973149693702638372
+    second: Light theme spritesheet 2_1359
+  - first:
+      213: -2317326658831071585
+    second: Light theme spritesheet 2_1360
+  - first:
+      213: 7332374499700358562
+    second: Light theme spritesheet 2_1361
+  - first:
+      213: -6325530514399707213
+    second: Light theme spritesheet 2_1362
+  - first:
+      213: 8177867949908940191
+    second: Light theme spritesheet 2_1363
+  - first:
+      213: 5349500816786361471
+    second: Light theme spritesheet 2_1364
+  - first:
+      213: -4825995011700917518
+    second: Light theme spritesheet 2_1365
+  - first:
+      213: 4415015624864511503
+    second: Light theme spritesheet 2_1366
+  - first:
+      213: 8745494340659267022
+    second: Light theme spritesheet 2_1367
+  - first:
+      213: 549868048683951723
+    second: Light theme spritesheet 2_1368
+  - first:
+      213: -1868474440290236453
+    second: Light theme spritesheet 2_1369
+  - first:
+      213: -6205689432792724876
+    second: Light theme spritesheet 2_1370
+  - first:
+      213: 846424958600245051
+    second: Light theme spritesheet 2_1371
+  - first:
+      213: -5648847822611746796
+    second: Light theme spritesheet 2_1372
+  - first:
+      213: -7561435466119632902
+    second: Light theme spritesheet 2_1373
+  - first:
+      213: 2567379136415008840
+    second: Light theme spritesheet 2_1374
+  - first:
+      213: -3560984569144535451
+    second: Light theme spritesheet 2_1375
+  - first:
+      213: -978062340728714529
+    second: Light theme spritesheet 2_1376
+  - first:
+      213: 4205655074019456269
+    second: Light theme spritesheet 2_1377
+  - first:
+      213: -6771413401236217603
+    second: Light theme spritesheet 2_1378
+  - first:
+      213: -5912292220108365566
+    second: Light theme spritesheet 2_1379
+  - first:
+      213: -2108275642078289836
+    second: Light theme spritesheet 2_1380
+  - first:
+      213: -5746564715684418373
+    second: Light theme spritesheet 2_1381
+  - first:
+      213: 46344757151895354
+    second: Light theme spritesheet 2_1382
+  - first:
+      213: -256626526646916593
+    second: Light theme spritesheet 2_1383
+  - first:
+      213: -673043481770002917
+    second: Light theme spritesheet 2_1384
+  - first:
+      213: 7194801861523785051
+    second: Light theme spritesheet 2_1385
+  - first:
+      213: 3082281297605801486
+    second: Light theme spritesheet 2_1386
+  - first:
+      213: 4918841133536566854
+    second: Light theme spritesheet 2_1387
+  - first:
+      213: -2554926188768593775
+    second: Light theme spritesheet 2_1388
+  - first:
+      213: -3315160624074215467
+    second: Light theme spritesheet 2_1389
+  - first:
+      213: -4103763088098736304
+    second: Light theme spritesheet 2_1390
+  - first:
+      213: 5528520027557125826
+    second: Light theme spritesheet 2_1391
+  - first:
+      213: -1578017439123812175
+    second: Light theme spritesheet 2_1392
+  - first:
+      213: -815171963744683558
+    second: Light theme spritesheet 2_1393
+  - first:
+      213: 8370231077949634931
+    second: Light theme spritesheet 2_1394
+  - first:
+      213: 7517672365881230706
+    second: Light theme spritesheet 2_1395
+  - first:
+      213: 7377500394796961321
+    second: Light theme spritesheet 2_1396
+  - first:
+      213: -1965633245600221571
+    second: Light theme spritesheet 2_1397
+  - first:
+      213: -6183721622022805722
+    second: Light theme spritesheet 2_1398
+  - first:
+      213: -4110175601968546663
+    second: Light theme spritesheet 2_1399
+  - first:
+      213: -5199754769649506926
+    second: Light theme spritesheet 2_1400
+  - first:
+      213: -874573399447937741
+    second: Light theme spritesheet 2_1401
+  - first:
+      213: 5206845056765250621
+    second: Light theme spritesheet 2_1402
+  - first:
+      213: 5924823063973374542
+    second: Light theme spritesheet 2_1403
+  - first:
+      213: 5389792397296913476
+    second: Light theme spritesheet 2_1404
+  - first:
+      213: -1354501023618406089
+    second: Light theme spritesheet 2_1405
+  - first:
+      213: -2920588708640191491
+    second: Light theme spritesheet 2_1406
+  - first:
+      213: -44364577915082036
+    second: Light theme spritesheet 2_1407
+  - first:
+      213: 61851267179944400
+    second: Light theme spritesheet 2_1408
+  - first:
+      213: 6283501652439528590
+    second: Light theme spritesheet 2_1409
+  - first:
+      213: 5596121693756498034
+    second: Light theme spritesheet 2_1410
+  - first:
+      213: 5622230579920372360
+    second: Light theme spritesheet 2_1411
+  - first:
+      213: 1101892405802238685
+    second: Light theme spritesheet 2_1412
+  - first:
+      213: -6932035697652356300
+    second: Light theme spritesheet 2_1413
+  - first:
+      213: -9081869187785887496
+    second: Light theme spritesheet 2_1414
+  - first:
+      213: 6222426288707553969
+    second: Light theme spritesheet 2_1415
+  - first:
+      213: 7205707859947705426
+    second: Light theme spritesheet 2_1416
+  - first:
+      213: -8109901325442624540
+    second: Light theme spritesheet 2_1417
+  - first:
+      213: -1086462210117728030
+    second: Light theme spritesheet 2_1418
+  - first:
+      213: -3390090107618706693
+    second: Light theme spritesheet 2_1419
+  - first:
+      213: -36627826880769648
+    second: Light theme spritesheet 2_1420
+  - first:
+      213: 5749544360766435449
+    second: Light theme spritesheet 2_1421
+  - first:
+      213: 2482122983952994637
+    second: Light theme spritesheet 2_1422
+  - first:
+      213: -7304977006086110027
+    second: Light theme spritesheet 2_1423
+  - first:
+      213: -8647122410722457709
+    second: Light theme spritesheet 2_1424
+  - first:
+      213: -2009985789095456815
+    second: Light theme spritesheet 2_1425
+  - first:
+      213: -3334924506133466871
+    second: Light theme spritesheet 2_1426
+  - first:
+      213: 6008580140468276629
+    second: Light theme spritesheet 2_1427
+  - first:
+      213: 4983254965986678064
+    second: Light theme spritesheet 2_1428
+  - first:
+      213: -4335626087566067671
+    second: Light theme spritesheet 2_1429
+  - first:
+      213: 8665967957743258036
+    second: Light theme spritesheet 2_1430
+  - first:
+      213: 3947909768455555464
+    second: Light theme spritesheet 2_1431
+  - first:
+      213: -8293688282803855960
+    second: Light theme spritesheet 2_1432
+  - first:
+      213: -4604186176040615088
+    second: Light theme spritesheet 2_1433
+  - first:
+      213: -3142844832366516519
+    second: Light theme spritesheet 2_1434
+  - first:
+      213: 664770532807765767
+    second: Light theme spritesheet 2_1435
+  - first:
+      213: 2428770780216310757
+    second: Light theme spritesheet 2_1436
+  - first:
+      213: -7437849447155951674
+    second: Light theme spritesheet 2_1437
+  - first:
+      213: -1756975982180712363
+    second: Light theme spritesheet 2_1438
+  - first:
+      213: -2619806098711200686
+    second: Light theme spritesheet 2_1439
+  - first:
+      213: -8336963802622367688
+    second: Light theme spritesheet 2_1440
+  - first:
+      213: 3657883511796450614
+    second: Light theme spritesheet 2_1441
+  - first:
+      213: -1673500808067073481
+    second: Light theme spritesheet 2_1442
+  - first:
+      213: 9039204796625017516
+    second: Light theme spritesheet 2_1443
+  - first:
+      213: 2153090182737634444
+    second: Light theme spritesheet 2_1444
+  - first:
+      213: -2581552551902275974
+    second: Light theme spritesheet 2_1445
+  - first:
+      213: -5309742420437544553
+    second: Light theme spritesheet 2_1446
+  - first:
+      213: -1062574693333434005
+    second: Light theme spritesheet 2_1447
+  - first:
+      213: -1286074568218135919
+    second: Light theme spritesheet 2_1448
+  - first:
+      213: 7535615716007993415
+    second: Light theme spritesheet 2_1449
+  - first:
+      213: -7229198688635142054
+    second: Light theme spritesheet 2_1450
+  - first:
+      213: -3828526003992502087
+    second: Light theme spritesheet 2_1451
+  - first:
+      213: -6712823792483804309
+    second: Light theme spritesheet 2_1452
+  - first:
+      213: -7575032684183779361
+    second: Light theme spritesheet 2_1453
+  - first:
+      213: 8575108605638814202
+    second: Light theme spritesheet 2_1454
+  - first:
+      213: 1571661048360453032
+    second: Light theme spritesheet 2_1455
+  - first:
+      213: 198385572668761646
+    second: Light theme spritesheet 2_1456
+  - first:
+      213: -1953779792878524260
+    second: Light theme spritesheet 2_1457
+  - first:
+      213: -6517444697616277002
+    second: Light theme spritesheet 2_1458
+  - first:
+      213: 639115909269673389
+    second: Light theme spritesheet 2_1459
+  - first:
+      213: -1884256686780103975
+    second: Light theme spritesheet 2_1460
+  - first:
+      213: -5272170990445222349
+    second: Light theme spritesheet 2_1461
+  - first:
+      213: -2022329280863813316
+    second: Light theme spritesheet 2_1462
+  - first:
+      213: -6809230628715287042
+    second: Light theme spritesheet 2_1463
+  - first:
+      213: -7551611822113104777
+    second: Light theme spritesheet 2_1464
+  - first:
+      213: -755884365362553693
+    second: Light theme spritesheet 2_1465
+  - first:
+      213: 5442119940596906462
+    second: Light theme spritesheet 2_1466
+  - first:
+      213: 365018709451701861
+    second: Light theme spritesheet 2_1467
+  - first:
+      213: -5928711119143615815
+    second: Light theme spritesheet 2_1468
+  - first:
+      213: 7496156990679095739
+    second: Light theme spritesheet 2_1469
+  - first:
+      213: -4244756613934438750
+    second: Light theme spritesheet 2_1470
+  - first:
+      213: -1064927352039906159
+    second: Light theme spritesheet 2_1471
+  - first:
+      213: 5391638836651035328
+    second: Light theme spritesheet 2_1472
+  - first:
+      213: 6764006488447311568
+    second: Light theme spritesheet 2_1473
+  - first:
+      213: 4682567841250416937
+    second: Light theme spritesheet 2_1474
+  - first:
+      213: -2881802120114590408
+    second: Light theme spritesheet 2_1475
+  - first:
+      213: 374191206003253760
+    second: Light theme spritesheet 2_1476
+  - first:
+      213: 6401727733149364426
+    second: Light theme spritesheet 2_1477
+  - first:
+      213: -4503921475625578003
+    second: Light theme spritesheet 2_1478
+  - first:
+      213: -8552196281055305499
+    second: Light theme spritesheet 2_1479
+  - first:
+      213: 2644485080896605268
+    second: Light theme spritesheet 2_1480
+  - first:
+      213: -3079700154191405673
+    second: Light theme spritesheet 2_1481
+  - first:
+      213: 2319336221532311225
+    second: Light theme spritesheet 2_1482
+  - first:
+      213: -8403148365323199118
+    second: Light theme spritesheet 2_1483
+  - first:
+      213: -3360659923657321185
+    second: Light theme spritesheet 2_1484
+  - first:
+      213: 1648233918194899483
+    second: Light theme spritesheet 2_1485
+  - first:
+      213: 3402514692598274418
+    second: Light theme spritesheet 2_1486
+  - first:
+      213: -2126064115558446900
+    second: Light theme spritesheet 2_1487
+  - first:
+      213: -3649090785221890441
+    second: Light theme spritesheet 2_1488
+  - first:
+      213: -7504402511119063929
+    second: Light theme spritesheet 2_1489
+  - first:
+      213: 8019466967210403315
+    second: Light theme spritesheet 2_1490
+  - first:
+      213: 4093786009812982597
+    second: Light theme spritesheet 2_1491
+  - first:
+      213: -2373942204993314167
+    second: Light theme spritesheet 2_1492
+  - first:
+      213: -5634466689140935382
+    second: Light theme spritesheet 2_1493
+  - first:
+      213: -6733709232529136305
+    second: Light theme spritesheet 2_1494
+  - first:
+      213: -1460240766281948051
+    second: Light theme spritesheet 2_1495
+  - first:
+      213: -37739994048781413
+    second: Light theme spritesheet 2_1496
+  - first:
+      213: -1092972038775909857
+    second: Light theme spritesheet 2_1497
+  - first:
+      213: -2884208799894124467
+    second: Light theme spritesheet 2_1498
+  - first:
+      213: -1687502319310597283
+    second: Light theme spritesheet 2_1499
+  - first:
+      213: 7934204404412199797
+    second: Light theme spritesheet 2_1500
+  - first:
+      213: 3612693022282637263
+    second: Light theme spritesheet 2_1501
+  - first:
+      213: 6604552201803153675
+    second: Light theme spritesheet 2_1502
+  - first:
+      213: 9131148836519745639
+    second: Light theme spritesheet 2_1503
+  - first:
+      213: -7863851150415223696
+    second: Light theme spritesheet 2_1504
+  - first:
+      213: -8120651369912695689
+    second: Light theme spritesheet 2_1505
+  - first:
+      213: -728056867320879818
+    second: Light theme spritesheet 2_1506
+  - first:
+      213: 8435413289551803679
+    second: Light theme spritesheet 2_1507
+  - first:
+      213: 7862134279776937200
+    second: Light theme spritesheet 2_1508
+  - first:
+      213: 8354907156225742056
+    second: Light theme spritesheet 2_1509
+  - first:
+      213: 545921132523510724
+    second: Light theme spritesheet 2_1510
+  - first:
+      213: -9042121985508749472
+    second: Light theme spritesheet 2_1511
+  - first:
+      213: -99819712103691993
+    second: Light theme spritesheet 2_1512
+  - first:
+      213: 313674088225887745
+    second: Light theme spritesheet 2_1513
+  - first:
+      213: 934673833999906911
+    second: Light theme spritesheet 2_1514
+  - first:
+      213: -1942344537267858343
+    second: Light theme spritesheet 2_1515
+  - first:
+      213: 6093673625091976374
+    second: Light theme spritesheet 2_1516
+  - first:
+      213: -3902297794534883219
+    second: Light theme spritesheet 2_1517
+  - first:
+      213: 6355655824747461199
+    second: Light theme spritesheet 2_1518
+  - first:
+      213: 336767117472603257
+    second: Light theme spritesheet 2_1519
+  - first:
+      213: -8956628506127853156
+    second: Light theme spritesheet 2_1520
+  - first:
+      213: -1655019383882221620
+    second: Light theme spritesheet 2_1521
+  - first:
+      213: 7341158311667100593
+    second: Light theme spritesheet 2_1522
+  - first:
+      213: 7869686556878115962
+    second: Light theme spritesheet 2_1523
+  - first:
+      213: 1432276674366352570
+    second: Light theme spritesheet 2_1524
+  - first:
+      213: 7696721756572537056
+    second: Light theme spritesheet 2_1525
+  - first:
+      213: -6497819385488876701
+    second: Light theme spritesheet 2_1526
+  - first:
+      213: 2262403440739331995
+    second: Light theme spritesheet 2_1527
+  - first:
+      213: 4945144708774432370
+    second: Light theme spritesheet 2_1528
+  - first:
+      213: -1485709818025253603
+    second: Light theme spritesheet 2_1529
+  - first:
+      213: 629899749579500834
+    second: Light theme spritesheet 2_1530
+  - first:
+      213: -7243247319540327845
+    second: Light theme spritesheet 2_1531
+  - first:
+      213: -7711612500811014056
+    second: Light theme spritesheet 2_1532
+  - first:
+      213: 165205596127449355
+    second: Light theme spritesheet 2_1533
+  - first:
+      213: 467678248314118922
+    second: Light theme spritesheet 2_1534
+  - first:
+      213: -3155757422917327127
+    second: Light theme spritesheet 2_1535
+  - first:
+      213: -7754845748715698548
+    second: Light theme spritesheet 2_1536
+  - first:
+      213: 6360770194599185119
+    second: Light theme spritesheet 2_1537
+  - first:
+      213: -8134750808558411598
+    second: Light theme spritesheet 2_1538
+  - first:
+      213: 5848425845936115896
+    second: Light theme spritesheet 2_1539
+  - first:
+      213: -4004683320877393971
+    second: Light theme spritesheet 2_1540
+  - first:
+      213: -2781322148472734806
+    second: Light theme spritesheet 2_1541
+  - first:
+      213: 7659059318954383826
+    second: Light theme spritesheet 2_1542
+  - first:
+      213: 52213125688427337
+    second: Light theme spritesheet 2_1543
+  - first:
+      213: -1159110989846074941
+    second: Light theme spritesheet 2_1544
+  - first:
+      213: 1453393852039390105
+    second: Light theme spritesheet 2_1545
+  - first:
+      213: -6045419343554671729
+    second: Light theme spritesheet 2_1546
+  - first:
+      213: 6788289926431644909
+    second: Light theme spritesheet 2_1547
+  - first:
+      213: 3904448901053243135
+    second: Light theme spritesheet 2_1548
+  - first:
+      213: -5418747319884645611
+    second: Light theme spritesheet 2_1549
+  - first:
+      213: 5658597784760068097
+    second: Light theme spritesheet 2_1550
+  - first:
+      213: -4325495709162520590
+    second: Light theme spritesheet 2_1551
+  - first:
+      213: 6038059506099311069
+    second: Light theme spritesheet 2_1552
+  - first:
+      213: 8879169332817113839
+    second: Light theme spritesheet 2_1553
+  - first:
+      213: -8061796953855467780
+    second: Light theme spritesheet 2_1554
+  - first:
+      213: -9113294645949029519
+    second: Light theme spritesheet 2_1555
+  - first:
+      213: -4112073615834062144
+    second: Light theme spritesheet 2_1556
+  - first:
+      213: 6284737667939907713
+    second: Light theme spritesheet 2_1557
+  - first:
+      213: -4330459098379239039
+    second: Light theme spritesheet 2_1558
+  - first:
+      213: -2568028062071758559
+    second: Light theme spritesheet 2_1559
+  - first:
+      213: -5407778333993068322
+    second: Light theme spritesheet 2_1560
+  - first:
+      213: -46253982373827138
+    second: Light theme spritesheet 2_1561
+  - first:
+      213: -3252870823200012677
+    second: Light theme spritesheet 2_1562
+  - first:
+      213: 5025788141865843738
+    second: Light theme spritesheet 2_1563
+  - first:
+      213: 2471398594762917513
+    second: Light theme spritesheet 2_1564
+  - first:
+      213: 4766354039704243249
+    second: Light theme spritesheet 2_1565
+  - first:
+      213: 8746785046593015851
+    second: Light theme spritesheet 2_1566
+  - first:
+      213: -1365335528839564290
+    second: Light theme spritesheet 2_1567
+  - first:
+      213: -2212714456117214884
+    second: Light theme spritesheet 2_1568
+  - first:
+      213: 5550987173735223576
+    second: Light theme spritesheet 2_1569
+  - first:
+      213: -3231276914700016123
+    second: Light theme spritesheet 2_1570
+  - first:
+      213: -9115774243795475808
+    second: Light theme spritesheet 2_1571
+  - first:
+      213: 91080681850189067
+    second: Light theme spritesheet 2_1572
+  - first:
+      213: 1446841745225627987
+    second: Light theme spritesheet 2_1573
+  - first:
+      213: -7216901291374061378
+    second: Light theme spritesheet 2_1574
+  - first:
+      213: -5827910264725709566
+    second: Light theme spritesheet 2_1575
+  - first:
+      213: 9006546520528752856
+    second: Light theme spritesheet 2_1576
+  - first:
+      213: 1582037373615413636
+    second: Light theme spritesheet 2_1577
+  - first:
+      213: -1422689614962336595
+    second: Light theme spritesheet 2_1578
+  - first:
+      213: 729752452248775459
+    second: Light theme spritesheet 2_1579
+  - first:
+      213: -8023967333097386797
+    second: Light theme spritesheet 2_1580
+  - first:
+      213: 760005106013519044
+    second: Light theme spritesheet 2_1581
+  - first:
+      213: 1027801260677584469
+    second: Light theme spritesheet 2_1582
+  - first:
+      213: -561434771454751107
+    second: Light theme spritesheet 2_1583
+  - first:
+      213: -5348637272391619174
+    second: Light theme spritesheet 2_1584
+  - first:
+      213: 9112282751455327608
+    second: Light theme spritesheet 2_1585
+  - first:
+      213: 3349511692138846941
+    second: Light theme spritesheet 2_1586
+  - first:
+      213: -1812009779603897363
+    second: Light theme spritesheet 2_1587
+  - first:
+      213: 7365222819767555772
+    second: Light theme spritesheet 2_1588
+  - first:
+      213: 3978468977953751940
+    second: Light theme spritesheet 2_1589
+  - first:
+      213: -800446515625110995
+    second: Light theme spritesheet 2_1590
+  - first:
+      213: 4053050850511148304
+    second: Light theme spritesheet 2_1591
+  - first:
+      213: -8250868541045088878
+    second: Light theme spritesheet 2_1592
+  - first:
+      213: 70869538544594976
+    second: Light theme spritesheet 2_1593
+  - first:
+      213: -7284933186654370740
+    second: Light theme spritesheet 2_1594
+  - first:
+      213: 1091407944334186560
+    second: Light theme spritesheet 2_1595
+  - first:
+      213: -8058958314331206906
+    second: Light theme spritesheet 2_1596
+  - first:
+      213: -1916745101389657056
+    second: Light theme spritesheet 2_1597
+  - first:
+      213: 4911014287608328535
+    second: Light theme spritesheet 2_1598
+  - first:
+      213: 6171668706072488267
+    second: Light theme spritesheet 2_1599
+  - first:
+      213: 4594465899915957705
+    second: Light theme spritesheet 2_1600
+  - first:
+      213: 8483182461930007729
+    second: Light theme spritesheet 2_1601
+  - first:
+      213: 6600637350399373583
+    second: Light theme spritesheet 2_1602
+  - first:
+      213: 2766384730734055030
+    second: Light theme spritesheet 2_1603
+  - first:
+      213: -6534006941190489366
+    second: Light theme spritesheet 2_1604
+  - first:
+      213: -1336870150488080924
+    second: Light theme spritesheet 2_1605
+  - first:
+      213: 3799395605664582593
+    second: Light theme spritesheet 2_1606
+  - first:
+      213: -8484235054371966833
+    second: Light theme spritesheet 2_1607
+  - first:
+      213: -8983918801607984746
+    second: Light theme spritesheet 2_1608
+  - first:
+      213: -1204853161169856029
+    second: Light theme spritesheet 2_1609
+  - first:
+      213: -4176117937725082878
+    second: Light theme spritesheet 2_1610
+  - first:
+      213: 5270366268309970956
+    second: Light theme spritesheet 2_1611
+  - first:
+      213: -5565302677201379167
+    second: Light theme spritesheet 2_1612
+  - first:
+      213: 882301044317629806
+    second: Light theme spritesheet 2_1613
+  - first:
+      213: -3139460689625321004
+    second: Light theme spritesheet 2_1614
+  - first:
+      213: 3871049818503336063
+    second: Light theme spritesheet 2_1615
+  - first:
+      213: 8063444610121750067
+    second: Light theme spritesheet 2_1616
+  - first:
+      213: -4846832569109289840
+    second: Light theme spritesheet 2_1617
+  - first:
+      213: -6974920801800295720
+    second: Light theme spritesheet 2_1618
+  - first:
+      213: -58703774989935811
+    second: Light theme spritesheet 2_1619
+  - first:
+      213: -3909908233441444954
+    second: Light theme spritesheet 2_1620
+  - first:
+      213: 1002340334285334840
+    second: Light theme spritesheet 2_1621
+  - first:
+      213: 208107638749476381
+    second: Light theme spritesheet 2_1622
+  - first:
+      213: -8790007662592128684
+    second: Light theme spritesheet 2_1623
+  - first:
+      213: 8065042983706400362
+    second: Light theme spritesheet 2_1624
+  - first:
+      213: 5963316319608148111
+    second: Light theme spritesheet 2_1625
+  - first:
+      213: 575466721150928616
+    second: Light theme spritesheet 2_1626
+  - first:
+      213: -6307472779848119854
+    second: Light theme spritesheet 2_1627
+  - first:
+      213: -4971847071141049107
+    second: Light theme spritesheet 2_1628
+  - first:
+      213: -2814859307920335989
+    second: Light theme spritesheet 2_1629
+  - first:
+      213: 2013157523773235684
+    second: Light theme spritesheet 2_1630
+  - first:
+      213: -6766763054302965800
+    second: Light theme spritesheet 2_1631
+  - first:
+      213: -2849476335338170710
+    second: Light theme spritesheet 2_1632
+  - first:
+      213: 5412931108265533641
+    second: Light theme spritesheet 2_1633
+  - first:
+      213: 923411389104454085
+    second: Light theme spritesheet 2_1634
+  - first:
+      213: -8023508186057835494
+    second: Light theme spritesheet 2_1635
+  - first:
+      213: 4677793452226475070
+    second: Light theme spritesheet 2_1636
+  - first:
+      213: 4651075718865905983
+    second: Light theme spritesheet 2_1637
+  - first:
+      213: 7955123146301006170
+    second: Light theme spritesheet 2_1638
+  - first:
+      213: 7411987005306042100
+    second: Light theme spritesheet 2_1639
+  - first:
+      213: 2279120547454801099
+    second: Light theme spritesheet 2_1640
+  - first:
+      213: 6556262826852509888
+    second: Light theme spritesheet 2_1641
+  - first:
+      213: -351242586740985210
+    second: Light theme spritesheet 2_1642
+  - first:
+      213: 7906462425420239773
+    second: Light theme spritesheet 2_1643
+  - first:
+      213: -5314018577315018335
+    second: Light theme spritesheet 2_1644
+  - first:
+      213: 9199035222691600196
+    second: Light theme spritesheet 2_1645
+  - first:
+      213: -3956465185281163741
+    second: Light theme spritesheet 2_1646
+  - first:
+      213: -1279420079827653599
+    second: Light theme spritesheet 2_1647
+  - first:
+      213: 3529602314041465358
+    second: Light theme spritesheet 2_1648
+  - first:
+      213: -543340660568138568
+    second: Light theme spritesheet 2_1649
+  - first:
+      213: -8843993130867137327
+    second: Light theme spritesheet 2_1650
+  - first:
+      213: -2658416996048578417
+    second: Light theme spritesheet 2_1651
+  - first:
+      213: 4673515370983228272
+    second: Light theme spritesheet 2_1652
+  - first:
+      213: -718242745312532576
+    second: Light theme spritesheet 2_1653
+  - first:
+      213: -8375019113738271609
+    second: Light theme spritesheet 2_1654
+  - first:
+      213: -5746209186557350934
+    second: Light theme spritesheet 2_1655
+  - first:
+      213: -1031266361512104275
+    second: Light theme spritesheet 2_1656
+  - first:
+      213: 8632300733645834581
+    second: Light theme spritesheet 2_1657
+  - first:
+      213: 6568193234405179655
+    second: Light theme spritesheet 2_1658
+  - first:
+      213: 1749507312403235294
+    second: Light theme spritesheet 2_1659
+  - first:
+      213: -7719227456652868541
+    second: Light theme spritesheet 2_1660
+  - first:
+      213: -5245016340569206975
+    second: Light theme spritesheet 2_1661
+  - first:
+      213: -1664892103001069936
+    second: Light theme spritesheet 2_1662
+  - first:
+      213: -906151814765706180
+    second: Light theme spritesheet 2_1663
+  - first:
+      213: 8876479695754595557
+    second: Light theme spritesheet 2_1664
+  - first:
+      213: -1240466922465168479
+    second: Light theme spritesheet 2_1665
+  - first:
+      213: -1462374259415977742
+    second: Light theme spritesheet 2_1666
+  - first:
+      213: 5047343327127810434
+    second: Light theme spritesheet 2_1667
+  - first:
+      213: 4833159221719215500
+    second: Light theme spritesheet 2_1668
+  - first:
+      213: -2967739321461870492
+    second: Light theme spritesheet 2_1669
+  - first:
+      213: -4525950614429515793
+    second: Light theme spritesheet 2_1670
+  - first:
+      213: 8420577888887172541
+    second: Light theme spritesheet 2_1671
+  - first:
+      213: 5293120278965917026
+    second: Light theme spritesheet 2_1672
+  - first:
+      213: -80890622432999419
+    second: Light theme spritesheet 2_1673
+  - first:
+      213: -8432254962032154868
+    second: Light theme spritesheet 2_1674
+  - first:
+      213: -5157615203544177683
+    second: Light theme spritesheet 2_1675
+  - first:
+      213: -2961601153484509335
+    second: Light theme spritesheet 2_1676
+  - first:
+      213: 5438876462325433854
+    second: Light theme spritesheet 2_1677
+  - first:
+      213: 5912323480790938069
+    second: Light theme spritesheet 2_1678
+  - first:
+      213: -7179745481101091006
+    second: Light theme spritesheet 2_1679
+  - first:
+      213: -1748938572055394048
+    second: Light theme spritesheet 2_1680
+  - first:
+      213: 6042504620446506965
+    second: Light theme spritesheet 2_1681
+  - first:
+      213: -2665944542680720414
+    second: Light theme spritesheet 2_1682
+  - first:
+      213: -3922346743355295413
+    second: Light theme spritesheet 2_1683
+  - first:
+      213: 2846314959317427608
+    second: Light theme spritesheet 2_1684
+  - first:
+      213: -8318561559518281168
+    second: Light theme spritesheet 2_1685
+  - first:
+      213: -5900937428852843598
+    second: Light theme spritesheet 2_1686
+  - first:
+      213: 2321448866752435969
+    second: Light theme spritesheet 2_1687
+  - first:
+      213: -6099716222726834233
+    second: Light theme spritesheet 2_1688
+  - first:
+      213: 8099746811601289571
+    second: Light theme spritesheet 2_1689
+  - first:
+      213: 8034624775080381766
+    second: Light theme spritesheet 2_1690
+  - first:
+      213: 1869795333314607518
+    second: Light theme spritesheet 2_1691
+  - first:
+      213: 3751504849749762787
+    second: Light theme spritesheet 2_1692
+  - first:
+      213: -1336430388243590063
+    second: Light theme spritesheet 2_1693
+  - first:
+      213: 4938802004511158514
+    second: Light theme spritesheet 2_1694
+  - first:
+      213: 731202720032021255
+    second: Light theme spritesheet 2_1695
+  - first:
+      213: 6475532033617708357
+    second: Light theme spritesheet 2_1696
+  - first:
+      213: 7127245536765042304
+    second: Light theme spritesheet 2_1697
+  - first:
+      213: -99229863881393530
+    second: Light theme spritesheet 2_1698
+  - first:
+      213: 4742235562710754590
+    second: Light theme spritesheet 2_1699
+  - first:
+      213: 5310798666909925345
+    second: Light theme spritesheet 2_1700
+  - first:
+      213: 7162305173373434952
+    second: Light theme spritesheet 2_1701
+  - first:
+      213: 8355314676955958544
+    second: Light theme spritesheet 2_1702
+  - first:
+      213: -2687705025569622948
+    second: Light theme spritesheet 2_1703
+  - first:
+      213: 3388149631632215129
+    second: Light theme spritesheet 2_1704
+  - first:
+      213: -7916501059449472656
+    second: Light theme spritesheet 2_1705
+  - first:
+      213: -6347311553738930217
+    second: Light theme spritesheet 2_1706
+  - first:
+      213: 3021723639778240040
+    second: Light theme spritesheet 2_1707
+  - first:
+      213: -521874136240874968
+    second: Light theme spritesheet 2_1708
+  - first:
+      213: 5624903796131195994
+    second: Light theme spritesheet 2_1709
+  - first:
+      213: 3500277424386983372
+    second: Light theme spritesheet 2_1710
+  - first:
+      213: 6213792126723747504
+    second: Light theme spritesheet 2_1711
+  - first:
+      213: 8259979496832652399
+    second: Light theme spritesheet 2_1712
+  - first:
+      213: -6298690606967909211
+    second: Light theme spritesheet 2_1713
+  - first:
+      213: -6829629181175922501
+    second: Light theme spritesheet 2_1714
+  - first:
+      213: -1778923301753913485
+    second: Light theme spritesheet 2_1715
+  - first:
+      213: -9138819561615952620
+    second: Light theme spritesheet 2_1716
+  - first:
+      213: 5630070408817350509
+    second: Light theme spritesheet 2_1717
+  - first:
+      213: 3913300736361975364
+    second: Light theme spritesheet 2_1718
+  - first:
+      213: 5841657150251488010
+    second: Light theme spritesheet 2_1719
+  - first:
+      213: -4592384122259191665
+    second: Light theme spritesheet 2_1720
+  - first:
+      213: -8380338113800317620
+    second: Light theme spritesheet 2_1721
+  - first:
+      213: 669115467800075059
+    second: Light theme spritesheet 2_1722
+  - first:
+      213: -669630076354122129
+    second: Light theme spritesheet 2_1723
+  - first:
+      213: -9118098583844894217
+    second: Light theme spritesheet 2_1724
+  - first:
+      213: 7557594841989348883
+    second: Light theme spritesheet 2_1725
+  - first:
+      213: -8184314391456964572
+    second: Light theme spritesheet 2_1726
+  - first:
+      213: -141701004640933699
+    second: Light theme spritesheet 2_1727
+  - first:
+      213: -4772435183017064105
+    second: Light theme spritesheet 2_1728
+  - first:
+      213: -909112693043392515
+    second: Light theme spritesheet 2_1729
+  - first:
+      213: -8747632051023834277
+    second: Light theme spritesheet 2_1730
+  - first:
+      213: 8444315339878220778
+    second: Light theme spritesheet 2_1731
+  - first:
+      213: -5474965876531912274
+    second: Light theme spritesheet 2_1732
+  - first:
+      213: 2999704902325645791
+    second: Light theme spritesheet 2_1733
+  - first:
+      213: -783619951015569468
+    second: Light theme spritesheet 2_1734
+  - first:
+      213: 6170480622100386283
+    second: Light theme spritesheet 2_1735
+  - first:
+      213: -2242095413082342543
+    second: Light theme spritesheet 2_1736
+  - first:
+      213: 8740901674113115904
+    second: Light theme spritesheet 2_1737
+  - first:
+      213: 1818589585764905165
+    second: Light theme spritesheet 2_1738
+  - first:
+      213: 154529342425712192
+    second: Light theme spritesheet 2_1739
+  - first:
+      213: -6935869456217310421
+    second: Light theme spritesheet 2_1740
+  - first:
+      213: -4780390824661512764
+    second: Light theme spritesheet 2_1741
+  - first:
+      213: 2817613723080956377
+    second: Light theme spritesheet 2_1742
+  - first:
+      213: -6509297914513123807
+    second: Light theme spritesheet 2_1743
+  - first:
+      213: -3871255257895601693
+    second: Light theme spritesheet 2_1744
+  - first:
+      213: -8385959121178766879
+    second: Light theme spritesheet 2_1745
+  - first:
+      213: -744794447578412724
+    second: Light theme spritesheet 2_1746
+  - first:
+      213: 8623489564656194726
+    second: Light theme spritesheet 2_1747
+  - first:
+      213: 2852167120775678416
+    second: Light theme spritesheet 2_1748
+  - first:
+      213: 2002338563968340330
+    second: Light theme spritesheet 2_1749
+  - first:
+      213: -8341311570102080776
+    second: Light theme spritesheet 2_1750
+  - first:
+      213: -8884198564835904501
+    second: Light theme spritesheet 2_1751
+  - first:
+      213: 4597632954682544395
+    second: Light theme spritesheet 2_1752
+  - first:
+      213: -3721607448567709316
+    second: Light theme spritesheet 2_1753
+  - first:
+      213: -3666659747702922731
+    second: Light theme spritesheet 2_1754
+  - first:
+      213: -3905248408860499377
+    second: Light theme spritesheet 2_1755
+  - first:
+      213: -6329908588700433539
+    second: Light theme spritesheet 2_1756
+  - first:
+      213: 2820778267231252868
+    second: Light theme spritesheet 2_1757
+  - first:
+      213: 4595539976352721396
+    second: Light theme spritesheet 2_1758
+  - first:
+      213: 9111037117688899468
+    second: Light theme spritesheet 2_1759
+  - first:
+      213: 4385448458197581115
+    second: Light theme spritesheet 2_1760
+  - first:
+      213: 1751431037185433310
+    second: Light theme spritesheet 2_1761
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Light theme spritesheet 2_0
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 3863
+        width: 162
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63c506d86934c690800000000000000
+      internalID: -8296621223176931708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light theme spritesheet 2_1
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 3911
+        width: 162
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6601a243fd6eb9570800000000000000
+      internalID: -7338495936813020903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light theme spritesheet 2_2
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 3913
+        width: 200
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1522c2584ba1280800000000000000
+      internalID: -1425956613385307861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light theme spritesheet 2_3
+      rect:
+        serializedVersion: 2
+        x: 2691
+        y: 3465
+        width: 332
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d29d0cdc96667130800000000000000
+      internalID: 6164569621433158419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light theme spritesheet 2_4
+      rect:
+        serializedVersion: 2
+        x: 3203
+        y: 3465
+        width: 332
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70cfed6973e34c00800000000000000
+      internalID: -922014969710396463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light theme spritesheet 2_5
+      rect:
+        serializedVersion: 2
+        x: 3671
+        y: 3421
+        width: 372
+        height: 614
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07373a22c7b1cb4f0800000000000000
+      internalID: -821009390305383671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light theme spritesheet 2_7
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 3763
+        width: 174
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35fd3e9dd9b072ea0800000000000000
+      internalID: -6498931544257290041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light theme spritesheet 2_8
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 3449
+        width: 184
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b53865509311750800000000000000
+      internalID: -317760707293212241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light theme spritesheet 2_9
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 3449
+        width: 182
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7cfdbb18d80570b0800000000000000
+      internalID: -3327222584537047813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light theme spritesheet 2_10
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 3447
+        width: 214
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f3b79c01ec197c0800000000000000
+      internalID: -8759689876945805774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light theme spritesheet 2_11
+      rect:
+        serializedVersion: 2
+        x: 2565
+        y: 3375
+        width: 398
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ef3590786c63080800000000000000
+      internalID: -8675234053803004266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light theme spritesheet 2_12
+      rect:
+        serializedVersion: 2
+        x: 3079
+        y: 3589
+        width: 394
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8333dca5b4c65a50800000000000000
+      internalID: 4964305889303751125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light theme spritesheet 2_13
+      rect:
+        serializedVersion: 2
+        x: 3623
+        y: 3715
+        width: 88
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695fd00838e1d9740800000000000000
+      internalID: -5010254554412662336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light theme spritesheet 2_14
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 3449
+        width: 180
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfcc57784c2d97630800000000000000
+      internalID: 2278163460956952416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light theme spritesheet 2_15
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 3449
+        width: 188
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e303aed3293f3fe0800000000000000
+      internalID: -910359320963178844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light theme spritesheet 2_16
+      rect:
+        serializedVersion: 2
+        x: 3601
+        y: 3605
+        width: 88
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2af896b8b87fe2d0800000000000000
+      internalID: 7348153716293196722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light theme spritesheet 2_17
+      rect:
+        serializedVersion: 2
+        x: 3079
+        y: 3375
+        width: 394
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab59e337432c4e520800000000000000
+      internalID: -6134969044807833251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light theme spritesheet 2_18
+      rect:
+        serializedVersion: 2
+        x: 3605
+        y: 3497
+        width: 86
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022474633f2734360800000000000000
+      internalID: 4946440755927082456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light theme spritesheet 2_20
+      rect:
+        serializedVersion: 2
+        x: 3635
+        y: 3403
+        width: 266
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ccb026561b710d0800000000000000
+      internalID: -3241664479589848468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light theme spritesheet 2_21
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 2419
+        width: 165
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f869d2e644c014e40800000000000000
+      internalID: 5870805161364464687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light theme spritesheet 2_23
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 2541
+        width: 212
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0de3b384b34a930800000000000000
+      internalID: 980506481798527841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light theme spritesheet 2_24
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 2549
+        width: 208
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9be2ff5ad1231c0800000000000000
+      internalID: -802247792286155700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light theme spritesheet 2_25
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 2601
+        width: 174
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ce5a3587b27e3c0800000000000000
+      internalID: 5319881097717340207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light theme spritesheet 2_26
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 2485
+        width: 414
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e4862bb2d5f3b20800000000000000
+      internalID: 2649593905612509009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light theme spritesheet 2_27
+      rect:
+        serializedVersion: 2
+        x: 2513
+        y: 2695
+        width: 416
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b9d603e43668750800000000000000
+      internalID: -7643418765540818492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light theme spritesheet 2_28
+      rect:
+        serializedVersion: 2
+        x: 3063
+        y: 2487
+        width: 424
+        height: 770
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d22964fee0201d0800000000000000
+      internalID: 4764706409154260426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light theme spritesheet 2_29
+      rect:
+        serializedVersion: 2
+        x: 3575
+        y: 2659
+        width: 420
+        height: 596
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039ab6f853def9c90800000000000000
+      internalID: 1160182517256531574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light theme spritesheet 2_30
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 2414
+        width: 108
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef4a3ed882622250800000000000000
+      internalID: -6495813620927141566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light theme spritesheet 2_31
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 2421
+        width: 238
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f5fbdcdbf3eecb0800000000000000
+      internalID: 3300625740470599410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light theme spritesheet 2_32
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 2421
+        width: 236
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a4659bda6255f90800000000000000
+      internalID: -9084552992060827831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light theme spritesheet 2_33
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 2417
+        width: 196
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b9bf38e75f45c00800000000000000
+      internalID: 7186728634115545148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light theme spritesheet 2_34
+      rect:
+        serializedVersion: 2
+        x: 2651
+        y: 2485
+        width: 278
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b15d9d3133555c0800000000000000
+      internalID: 7797071272814763813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light theme spritesheet 2_35
+      rect:
+        serializedVersion: 2
+        x: 3635
+        y: 2491
+        width: 254
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e070f967ad1222a80800000000000000
+      internalID: 7556511695102654097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light theme spritesheet 2_36
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1835
+        width: 1056
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5579ea6e109ec90800000000000000
+      internalID: -2223624305751995414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light theme spritesheet 2_37
+      rect:
+        serializedVersion: 2
+        x: 2727
+        y: 1673
+        width: 444
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdaf94b5d675d2350800000000000000
+      internalID: 1099067125647888875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light theme spritesheet 2_38
+      rect:
+        serializedVersion: 2
+        x: 2727
+        y: 1695
+        width: 602
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5caf663f2ac692f30800000000000000
+      internalID: -4955722811257863833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light theme spritesheet 2_39
+      rect:
+        serializedVersion: 2
+        x: 3437
+        y: 1673
+        width: 614
+        height: 752
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cee4648366054eb0800000000000000
+      internalID: -3741533279500827368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light theme spritesheet 2_40
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1253
+        width: 1056
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a830b737df35c6910800000000000000
+      internalID: 8922503497161428855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light theme spritesheet 2_41
+      rect:
+        serializedVersion: 2
+        x: 2829
+        y: 861
+        width: 334
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632f344a4c21dbea0800000000000000
+      internalID: 4657318279382757415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light theme spritesheet 2_42
+      rect:
+        serializedVersion: 2
+        x: 3213
+        y: 861
+        width: 824
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7164347618bb63c60800000000000000
+      internalID: -5648731963686140998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light theme spritesheet 2_43
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 537
+        width: 868
+        height: 652
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63a6b18450b07170800000000000000
+      internalID: 5953696885638116353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light theme spritesheet 2_44
+      rect:
+        serializedVersion: 2
+        x: 2855
+        y: 181
+        width: 450
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214a1330fc9426790800000000000000
+      internalID: -5648250040014605438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light theme spritesheet 2_45
+      rect:
+        serializedVersion: 2
+        x: 3401
+        y: 97
+        width: 616
+        height: 616
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e3a2956d44f0420800000000000000
+      internalID: -316557844804989581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light theme spritesheet 2_46
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 53
+        width: 1336
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98bd67acddc28da0800000000000000
+      internalID: -941253539974876639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5ccc59578d48968439bfc5d35e3e665c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Light theme spritesheet 2_30: -6495813620927141566
+      Light theme spritesheet 2_2: -1425956613385307861
+      Light theme spritesheet 2_41: 4657318279382757415
+      Light theme spritesheet 2_28: 4764706409154260426
+      Light theme spritesheet 2_3: 6164569621433158419
+      Light theme spritesheet 2_40: 8922503497161428855
+      Light theme spritesheet 2_16: 7348153716293196722
+      Light theme spritesheet 2_10: -8759689876945805774
+      Light theme spritesheet 2_37: 1099067125647888875
+      Light theme spritesheet 2_35: 7556511695102654097
+      Light theme spritesheet 2_44: -5648250040014605438
+      Light theme spritesheet 2_31: 3300625740470599410
+      Light theme spritesheet 2_7: -6498931544257290041
+      Light theme spritesheet 2_15: -910359320963178844
+      Light theme spritesheet 2_4: -922014969710396463
+      Light theme spritesheet 2_5: -821009390305383671
+      Light theme spritesheet 2_36: -2223624305751995414
+      Light theme spritesheet 2_21: 5870805161364464687
+      Light theme spritesheet 2_26: 2649593905612509009
+      Light theme spritesheet 2_38: -4955722811257863833
+      Light theme spritesheet 2_32: -9084552992060827831
+      Light theme spritesheet 2_33: 7186728634115545148
+      Light theme spritesheet 2_11: -8675234053803004266
+      Light theme spritesheet 2_29: 1160182517256531574
+      Light theme spritesheet 2_18: 4946440755927082456
+      Light theme spritesheet 2_34: 7797071272814763813
+      Light theme spritesheet 2_13: -5010254554412662336
+      Light theme spritesheet 2_9: -3327222584537047813
+      Light theme spritesheet 2_20: -3241664479589848468
+      Light theme spritesheet 2_12: 4964305889303751125
+      Light theme spritesheet 2_23: 980506481798527841
+      Light theme spritesheet 2_8: -317760707293212241
+      Light theme spritesheet 2_42: -5648731963686140998
+      Light theme spritesheet 2_46: -941253539974876639
+      Light theme spritesheet 2_45: -316557844804989581
+      Light theme spritesheet 2_25: 5319881097717340207
+      Light theme spritesheet 2_27: -7643418765540818492
+      Light theme spritesheet 2_14: 2278163460956952416
+      Light theme spritesheet 2_17: -6134969044807833251
+      Light theme spritesheet 2_24: -802247792286155700
+      Light theme spritesheet 2_43: 5953696885638116353
+      Light theme spritesheet 2_0: -8296621223176931708
+      Light theme spritesheet 2_39: -3741533279500827368
+      Light theme spritesheet 2_1: -7338495936813020903
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
